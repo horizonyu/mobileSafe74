@@ -1,0 +1,226 @@
+[
+    {
+        "outputFile": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 264,
+                    "endColumn": 57,
+                    "endOffset": 317
+                },
+                "from": {
+                    "file": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 322,
+                    "endColumn": 55,
+                    "endOffset": 373
+                },
+                "from": {
+                    "file": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 378,
+                    "endColumn": 52,
+                    "endOffset": 426
+                },
+                "from": {
+                    "file": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endColumn": 52,
+                        "endOffset": 158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 431,
+                    "endColumn": 49,
+                    "endOffset": 476
+                },
+                "from": {
+                    "file": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 49,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 481,
+                    "endColumn": 64,
+                    "endOffset": 541
+                },
+                "from": {
+                    "file": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 243,
+                        "endColumn": 64,
+                        "endOffset": 303
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 546,
+                    "endColumn": 52,
+                    "endOffset": 594
+                },
+                "from": {
+                    "file": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 52,
+                        "endOffset": 212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 599,
+                    "endLine": 15,
+                    "endColumn": 12,
+                    "endOffset": 885
+                },
+                "from": {
+                    "file": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 484
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 890,
+                    "endLine": 20,
+                    "endColumn": 12,
+                    "endOffset": 1136
+                },
+                "from": {
+                    "file": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 525,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 775
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1141,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 1560
+                },
+                "from": {
+                    "file": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1099,
+                        "endLine": 38,
+                        "endColumn": 12,
+                        "endOffset": 1526
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1565,
+                    "endLine": 39,
+                    "endColumn": 9,
+                    "endOffset": 2091
+                },
+                "from": {
+                    "file": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 1,
+                        "startOffset": 2466,
+                        "endLine": 68,
+                        "endColumn": 9,
+                        "endOffset": 3001
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2096,
+                    "endLine": 49,
+                    "endColumn": 9,
+                    "endOffset": 2622
+                },
+                "from": {
+                    "file": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 1,
+                        "startOffset": 1928,
+                        "endLine": 58,
+                        "endColumn": 9,
+                        "endOffset": 2463
+                    }
+                }
+            }
+        ]
+    }
+]

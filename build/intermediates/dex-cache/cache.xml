@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\projects\Android_Studio_projects\mobilesafe74\libs\xUtils-2.6.14.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="E:\projects\Android_Studio_projects\mobilesafe74\build\intermediates\transforms\dex\debug\folders\1000\2\xUtils-2.6.14_f4eb23c3dfa030da969a30a53dbf35816fd9644b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\projects\Android_Studio_projects\mobilesafe74\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8d1691e0092b5bd7d00b241d7e39f9e57ce58810">
+        <dex dex="E:\projects\Android_Studio_projects\mobilesafe74\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ada9e303ace1aa61ac16d057d51791bc5cae0e6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\projects\Android_Studio_projects\mobilesafe74\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2156e0f6c6accdccf14427d861296704d5c41ad8">
+        <dex dex="E:\projects\Android_Studio_projects\mobilesafe74\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_78313d933931ab25047b80c5c32dc8a83b5af466\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\projects\Android_Studio_projects\mobilesafe74\libs\android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="48c94ae70fa65718b382098237806a5909bb096e">
+        <dex dex="E:\projects\Android_Studio_projects\mobilesafe74\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4_f65f012da6f2e11c2e1139e6a2a3280153943243\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_number_btn_bg.xml",
+        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\drawable\\selector_number_btn_bg.xml"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_next_btn_bg.xml",
+        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\drawable\\selector_next_btn_bg.xml"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient_box.xml",
+        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\drawable\\gradient_box.xml"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_atool_item_bg.xml",
+        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\drawable\\selector_atool_item_bg.xml"
+    }
+]

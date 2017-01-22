@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.itheima.mobilesafe74"
+    android:versionCode="1"
+    android:versionName="1.0" > <!-- android:versionCode 本地应用版本号1,版本号是2,有必要提示用户更新 -->
+    <!--
+ android:versionName="1.0"  
+			2.1.1:
+			最后的一位:代表修复原有版本的bug
+			倒数第二位:更新部分功能
+			第一位:项目重大更新(代码重构,大部分功能添加,界面整体修改)
+    -->
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+    <!-- android:theme="@android:style/Theme.Light.NoTitleBar" -->
+
+
+    <!-- 允许获取定位功能的权限 -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <!-- 获取监听手机启动的权限 -->
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+
+    <!-- 获取接收短信的权限 -->
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+
+    <!-- 获取发送短信的权限 -->
+    <uses-permission android:name="android.permission.SEND_SMS" />
+
+    <application
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.itheima.mobilesafe74.activity.SplashActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.itheima.mobilesafe74.activity.HomeActivity" />
+        <activity android:name="com.itheima.mobilesafe74.activity.SettingActivity" />
+        <activity android:name="com.itheima.mobilesafe74.activity.TestActivity" />
+        <activity android:name="com.itheima.mobilesafe74.activity.SetupOverActivity" />
+        <activity android:name="com.itheima.mobilesafe74.activity.Setup1Activity" />
+        <activity android:name="com.itheima.mobilesafe74.activity.Setup2Activity" />
+        <activity android:name="com.itheima.mobilesafe74.activity.Setup3Activity" />
+        <activity android:name="com.itheima.mobilesafe74.activity.Setup4Activity" />
+        <activity android:name="com.itheima.mobilesafe74.activity.ContactListActivity" />
+        <activity android:name="com.itheima.mobilesafe74.activity.AToolActivity" />
+        <activity android:name="com.itheima.mobilesafe74.activity.PhoneLocationQueryActivity" />
+
+        <!-- 广播接收器注册 -->
+        <receiver android:name="com.itheima.mobilesafe74.Receiver.BootReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.itheima.mobilesafe74.Receiver.SmsReceiver" >
+            <intent-filter>
+                <action android:name="android.provider.Telephony.SMS_RECEIVED" />
+            </intent-filter>
+        </receiver>
+
+        <!-- 开启的服务进行注册 -->
+        <service android:name="com.itheima.mobilesafe74.Service.LocaitonService" />
+    </application>
+
+</manifest>

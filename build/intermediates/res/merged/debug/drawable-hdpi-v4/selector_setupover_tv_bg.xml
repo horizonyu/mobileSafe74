@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--@drawable/gradient_box 设置背景为圆角矩形  -->
+    <item android:state_pressed="true" android:drawable="@drawable/gradient_box" />
+
+    <!--@android:color/transparent 无色-->
+    <item android:drawable="@android:color/transparent" />
+
+</selector>

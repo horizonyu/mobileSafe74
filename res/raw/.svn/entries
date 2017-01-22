@@ -1,0 +1,42 @@
+10
+
+dir
+0
+https://192.168.13.99/svn/heima74/mobilesafe74/res/raw
+https://192.168.13.99/svn/heima74
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+390af074-4c9f-d343-bdb4-34f7f6ac8cc5
+
+ylzs.mp3
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+

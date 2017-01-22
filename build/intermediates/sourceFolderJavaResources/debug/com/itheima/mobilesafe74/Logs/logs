@@ -1,0 +1,18 @@
+2016.12.10
+1. 错误：
+    Error:Execution failed for task ':mergeDebugResources'.
+    > Error: java.lang.RuntimeException: Crunching Cruncher btn_green_normal.9.png failed, see logs
+
+   原因：
+   1）gradle在构建的时候会去检查一下是否修改过文件的后缀名；
+   2）大多出现在图片上，.jpg 修改成了 .png；
+   3）.9patch图片也可能出现这个问题。
+
+   解决方法：
+   在build.gradle中添加：
+
+      aaptOptions {
+            cruncherEnabled = false
+            useNewCruncher = false
+        }
+

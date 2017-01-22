@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\previous.png",
+        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\drawable-hdpi\\previous.png"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_green_normal.png",
+        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\drawable-hdpi\\btn_green_normal.png"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_netmanager.png",
+        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\drawable-hdpi\\home_netmanager.png"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_taskmanager.png",
+        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\drawable-hdpi\\home_taskmanager.png"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_callmsgsafe.png",
+        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\drawable-hdpi\\home_callmsgsafe.png"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_green_pressed.png",
+        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\drawable-hdpi\\btn_green_pressed.png"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\next.png",
+        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\drawable-hdpi\\next.png"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\unlock.png",
+        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\drawable-hdpi\\unlock.png"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_sysoptimize.png",
+        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\drawable-hdpi\\home_sysoptimize.png"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bind.png",
+        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\drawable-hdpi\\bind.png"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\launcher_bg.png",
+        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\drawable-hdpi\\launcher_bg.png"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\listview_divider.png",
+        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\drawable-hdpi\\listview_divider.png"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_tools.png",
+        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\drawable-hdpi\\home_tools.png"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_apps.png",
+        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\drawable-hdpi\\home_apps.png"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setup1.png",
+        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\drawable-hdpi\\setup1.png"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\selector_setupover_tv_bg.xml",
+        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\drawable-hdpi\\selector_setupover_tv_bg.xml"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_safe.png",
+        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\drawable-hdpi\\home_safe.png"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\phone.png",
+        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\drawable-hdpi\\phone.png"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_trojan.png",
+        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\drawable-hdpi\\home_trojan.png"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_settings.png",
+        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\drawable-hdpi\\home_settings.png"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\lock.png",
+        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\drawable-hdpi\\lock.png"
+    }
+]

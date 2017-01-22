@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\layout\\activity_atool.xml",
+        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\layout\\activity_atool.xml"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contact_list.xml",
+        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\layout\\activity_contact_list.xml"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup_over.xml",
+        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\layout\\activity_setup_over.xml"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\layout\\listview_contact_item.xml",
+        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\layout\\listview_contact_item.xml"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\layout\\activity_location_query.xml",
+        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\layout\\activity_location_query.xml"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup2.xml",
+        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\layout\\activity_setup2.xml"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\layout\\setting_item_view.xml",
+        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\layout\\setting_item_view.xml"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup4.xml",
+        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\layout\\activity_setup4.xml"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup1.xml",
+        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\layout\\activity_setup1.xml"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_set_psd.xml",
+        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\layout\\dialog_set_psd.xml"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup3.xml",
+        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\layout\\activity_setup3.xml"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_confirm_psd.xml",
+        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\layout\\dialog_confirm_psd.xml"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_item.xml",
+        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\layout\\gridview_item.xml"
+    }
+]

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\projects\Android_Studio_projects\mobilesafe74\assets"><file name="address.db" path="E:\projects\Android_Studio_projects\mobilesafe74\assets\address.db"/></source><source path="E:\projects\Android_Studio_projects\mobilesafe74\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\projects\Android_Studio_projects\mobilesafe74\build-types\debug\assets"/></dataSet></merger>
