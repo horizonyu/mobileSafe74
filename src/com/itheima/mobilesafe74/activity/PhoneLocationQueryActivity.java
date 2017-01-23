@@ -1,15 +1,13 @@
 package com.itheima.mobilesafe74.activity;
 
 import android.app.Activity;
-import android.database.Cursor;
-import android.database.sqlite.SQLiteDatabase;
 import android.os.Bundle;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
 import com.itheima.mobilesafe74.R;
-import com.itheima.mobilesafe74.utils.ToastUtil;
+import com.itheima.mobilesafe74.engine.AddressDao;
 
 /**
  * Created by horizon on 1/8/2017.
@@ -25,11 +23,14 @@ public class PhoneLocationQueryActivity extends Activity {
         setContentView(R.layout.activity_location_query);
 
         //初始化UI界面
-        query_location();
+        initUI();
+
+        //执行查询方法
+        queryLocation("13000001234");
 
     }
 
-    private void query_location() {
+    private void initUI() {
         //输入需要查询的手机号
         et_phone = (EditText) findViewById(R.id.et_phone_query);
 
@@ -41,16 +42,17 @@ public class PhoneLocationQueryActivity extends Activity {
         //获取输入的手机号
         //    String phone_number = et_phone.getText().toString();
 
-        //执行查询功能
-        queryLocation("13000001234");
-
-
     }
+
     public  void queryLocation(final String phone_number){
+
+        AddressDao.getAddress(phone_number);
+        /*
         final String number = phone_number.substring(0,7);
 
         //1. 设置数据库的路径
         String path = "data/data/com.itheima.mobilesafe74/files/address.db";
+
 
         //2. 开启数据库连接查询
         SQLiteDatabase db = SQLiteDatabase.openDatabase(path,null,SQLiteDatabase.OPEN_READWRITE);
@@ -66,6 +68,7 @@ public class PhoneLocationQueryActivity extends Activity {
 
             tv_location_display.setText(outkey);
         }
+*/
 
     }
 
