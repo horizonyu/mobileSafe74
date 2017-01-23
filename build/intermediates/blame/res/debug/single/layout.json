@@ -56,11 +56,11 @@
         "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\layout\\activity_setup3.xml"
     },
     {
-        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_confirm_psd.xml",
-        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\layout\\dialog_confirm_psd.xml"
-    },
-    {
         "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_item.xml",
         "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\layout\\gridview_item.xml"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_confirm_psd.xml",
+        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\layout\\dialog_confirm_psd.xml"
     }
 ]

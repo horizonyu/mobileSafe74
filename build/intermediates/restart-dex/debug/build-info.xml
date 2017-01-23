@@ -5,29 +5,29 @@
     density="xhdpi"
     format="8"
     plugin-version="2.2.1"
-    timestamp="89627493753370"
+    timestamp="20124896202841"
     token="-4789432408356204396"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="852" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="242" />
     <task
         name="verifier"
-        duration="0" />
+        duration="88" />
 
     <artifact
         location="E:\projects\Android_Studio_projects\mobilesafe74\build\outputs\apk\mobilesafe74-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="89627493753370"
+        timestamp="20124896202841"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="E:\projects\Android_Studio_projects\mobilesafe74\build\outputs\apk\mobilesafe74-debug.apk"
