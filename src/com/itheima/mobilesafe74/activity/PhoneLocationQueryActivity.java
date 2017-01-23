@@ -44,6 +44,7 @@ public class PhoneLocationQueryActivity extends Activity {
 
     }
 
+
     public  void queryLocation(final String phone_number){
 
         AddressDao.getAddress(phone_number);
