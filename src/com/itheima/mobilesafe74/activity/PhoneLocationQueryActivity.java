@@ -5,11 +5,15 @@ import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
 import android.text.Editable;
+import android.text.TextUtils;
 import android.text.TextWatcher;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
+
+import android.view.animation.Animation;
+import android.view.animation.AnimationUtils;
 
 import com.itheima.mobilesafe74.R;
 import com.itheima.mobilesafe74.engine.AddressDao;
@@ -87,7 +91,7 @@ public class PhoneLocationQueryActivity extends Activity {
         phone_number = et_phone.getText().toString();
 
         //2.2 获取具体的归属地信息
-        if (phone_number != "") {
+        if (!TextUtils.isEmpty(phone_number)) {
             //由于打开数据库属于耗时操作，所以需要在线程中开启
             new Thread() {
                 @Override
@@ -99,6 +103,12 @@ public class PhoneLocationQueryActivity extends Activity {
                     mHandler.sendEmptyMessage(0);
                 }
             }.start();
+
+        }else{
+            //添加抖动效果
+            Animation shake = AnimationUtils.loadAnimation(getApplicationContext(), R.anim.shake);
+            et_phone.startAnimation(shake);
+
 
         }
 

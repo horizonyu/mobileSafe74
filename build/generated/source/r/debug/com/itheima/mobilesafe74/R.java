@@ -9,10 +9,12 @@ package com.itheima.mobilesafe74;
 
 public final class R {
     public static final class anim {
-        public static final int next_in_anim=0x7f040000;
-        public static final int next_out_anim=0x7f040001;
-        public static final int pre_in_anim=0x7f040002;
-        public static final int pre_out_anim=0x7f040003;
+        public static final int cycle_7=0x7f040000;
+        public static final int next_in_anim=0x7f040001;
+        public static final int next_out_anim=0x7f040002;
+        public static final int pre_in_anim=0x7f040003;
+        public static final int pre_out_anim=0x7f040004;
+        public static final int shake=0x7f040005;
     }
     public static final class attr {
         /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.

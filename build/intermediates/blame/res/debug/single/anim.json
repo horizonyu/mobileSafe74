@@ -8,6 +8,14 @@
         "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\anim\\next_out_anim.xml"
     },
     {
+        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\anim\\shake.xml",
+        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\anim\\shake.xml"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\anim\\cycle_7.xml",
+        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\anim\\cycle_7.xml"
+    },
+    {
         "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\anim\\pre_in_anim.xml",
         "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\anim\\pre_in_anim.xml"
     },

@@ -8,12 +8,12 @@
         "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\drawable-hdpi\\btn_green_normal.png"
     },
     {
-        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_netmanager.png",
-        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\drawable-hdpi\\home_netmanager.png"
-    },
-    {
         "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_taskmanager.png",
         "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\drawable-hdpi\\home_taskmanager.png"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_netmanager.png",
+        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\drawable-hdpi\\home_netmanager.png"
     },
     {
         "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_callmsgsafe.png",
