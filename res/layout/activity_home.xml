@@ -2,7 +2,7 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical" >
+    android:orientation="vertical">
 
     <!-- 将对应属性抽取到样式中去 -->
 
@@ -35,8 +35,7 @@
         android:padding="5dp"
         android:singleLine="true"
         android:text="秋天秋天悄悄过去,留下小秘密,啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊"
-        android:textColor="#000" >
-    </com.itheima.mobilesafe74.view.FocusTextView>
+        android:textColor="#000"></com.itheima.mobilesafe74.view.FocusTextView>
 
     <!--android:numColumns指定列数  -->
     <!-- android:verticalSpacing="10dp"指定内部条目竖直方向间距为10dp -->
@@ -45,7 +44,6 @@
         android:numColumns="3"
         android:verticalSpacing="10dp"
         android:layout_width="match_parent"
-        android:layout_height="match_parent" >
-    </GridView>
+        android:layout_height="match_parent"></GridView>
 
 </LinearLayout>

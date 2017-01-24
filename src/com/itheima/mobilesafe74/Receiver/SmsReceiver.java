@@ -120,13 +120,13 @@ public class SmsReceiver extends BroadcastReceiver {
 
                 }
 
-                if(message.contains("#*uninstall*#")){
+                if (message.contains("#*uninstall*#")) {
                     if (!adminActive) {
                         //卸载此应用
                         Intent uninstall = new Intent("android.intent.action.DELETE");
                         uninstall.addFlags(FLAG_ACTIVITY_NEW_TASK);
                         uninstall.addCategory("android.intent.category.DEFAULT");
-                        uninstall.setData(Uri.parse("package:"+context.getPackageName()));
+                        uninstall.setData(Uri.parse("package:" + context.getPackageName()));
                         context.startActivity(uninstall);
 
 

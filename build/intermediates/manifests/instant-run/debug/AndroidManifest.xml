@@ -4,11 +4,11 @@
     android:versionCode="1"
     android:versionName="1.0" > <!-- android:versionCode 本地应用版本号1,版本号是2,有必要提示用户更新 -->
     <!--
- android:versionName="1.0"  
-			2.1.1:
-			最后的一位:代表修复原有版本的bug
-			倒数第二位:更新部分功能
-			第一位:项目重大更新(代码重构,大部分功能添加,界面整体修改)
+ android:versionName="1.0"
+            2.1.1:
+            最后的一位:代表修复原有版本的bug
+            倒数第二位:更新部分功能
+            第一位:项目重大更新(代码重构,大部分功能添加,界面整体修改)
     -->
     <uses-sdk
         android:minSdkVersion="8"

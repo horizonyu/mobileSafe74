@@ -14,6 +14,7 @@ import com.itheima.mobilesafe74.R;
  */
 public class AToolActivity extends Activity {
     private TextView tv_query_location;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -28,7 +29,7 @@ public class AToolActivity extends Activity {
         tv_query_location.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startActivity(new Intent(AToolActivity.this,PhoneLocationQueryActivity.class));
+                startActivity(new Intent(AToolActivity.this, PhoneLocationQueryActivity.class));
             }
         });
     }

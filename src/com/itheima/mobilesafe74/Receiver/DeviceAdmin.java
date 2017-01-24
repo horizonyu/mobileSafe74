@@ -12,10 +12,11 @@ import android.content.Intent;
 
 public class DeviceAdmin extends DeviceAdminReceiver {
     //组件名称
-    ComponentName mComponentName ;
+    ComponentName mComponentName;
 
     //设备策略管理器
     DevicePolicyManager devicePolicyManager;
+
     @Override
     public void onReceive(Context context, Intent intent) {
         super.onReceive(context, intent);

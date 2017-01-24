@@ -6,7 +6,8 @@
 
     <TextView
         style="@style/TitleStyle"
-        android:text="高级工具"/>
+        android:text="高级工具" />
+
     <TextView
         android:id="@+id/tv_query_phoneNumber_location"
         android:layout_width="match_parent"
@@ -16,6 +17,6 @@
         android:padding="5dp"
         android:drawableLeft="@android:drawable/star_on"
         android:background="@drawable/selector_atool_item_bg"
-        android:text="归属地查询"/>
+        android:text="归属地查询" />
 
 </LinearLayout>
