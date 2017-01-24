@@ -1,11 +1,11 @@
 [
     {
-        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\layout\\activity_atool.xml",
-        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\layout\\activity_atool.xml"
-    },
-    {
         "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contact_list.xml",
         "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\layout\\activity_contact_list.xml"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\layout\\activity_atool.xml",
+        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\layout\\activity_atool.xml"
     },
     {
         "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
