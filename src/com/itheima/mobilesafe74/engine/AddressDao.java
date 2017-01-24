@@ -2,6 +2,7 @@ package com.itheima.mobilesafe74.engine;
 
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
+import android.text.TextUtils;
 import android.util.Log;
 
 /**
@@ -17,42 +18,41 @@ public  class AddressDao {
 
     //2. 进行查询
     public  static String getAddress(String phone){
-        //0. 用于显示手机的归属地信息
+
         String location = null;
         if(phone != null){
-            if(phone.length() == 11){
+            //2.1 对手机号码进行正则表达式的判断
+                if(checkPhone(phone)){
                 phone = phone.substring(0,7);
-            }else if(phone.length() > 12 || phone.length() < 3 ){
-                return "未知号码";
-            }
-            else{
+                //3. 打开数据库
+                SQLiteDatabase db = SQLiteDatabase.openDatabase(path,null,SQLiteDatabase.OPEN_READONLY);
 
-            }
+                //3.1 首先查询data1表
+                Cursor data1 = db.query("data1", new String[]{"outkey"}, "id = ?", new String[]{phone}, null, null, null);
 
+                if(data1.moveToNext()){
+                    String outkey = data1.getString(0);
+                    Log.i("outkey",outkey);
+
+                    //3.2 接着通过外键查询data2
+                    Cursor data2 = db.query("data2", new String[]{"location"}, "id = ?", new String[]{outkey}, null, null, null);
+
+                    if(data2.moveToNext()){
+                        location = data2.getString(0);
+                        Log.i("location: ", location);
+                    }
+                }
+                return location;
+            }
+            return "未知号码";
         }
+        return "未知号码！！！";
+    }
 
-
-         //3. 打开数据库
-          SQLiteDatabase db = SQLiteDatabase.openDatabase(path,null,SQLiteDatabase.OPEN_READONLY);
-
-        //3.1 首先查询data1表
-        Cursor data1 = db.query("data1", new String[]{"outkey"}, "id = ?", new String[]{phone}, null, null, null);
-
-        if(data1.moveToNext()){
-            String outkey = data1.getString(0);
-            Log.i("outkey",outkey);
-
-            //3.2 接着通过外键查询data2
-            Cursor data2 = db.query("data2", new String[]{"location"}, "id = ?", new String[]{outkey}, null, null, null);
-
-            if(data2.moveToNext()){
-               location = data2.getString(0);
-                Log.i("location: ", location);
-            }
-
-        }
-
-        return location;
+    public static boolean checkPhone(String phone) {
+        String telRegex = "[1][358]\\d{9}";//"[1]"代表第1位为数字1，"[358]"代表第二位可以为3、5、8中的一个，"\\d{9}"代表后面是可以是0～9的数字，有9位。
+        if (TextUtils.isEmpty(phone)) return false;
+        else return phone.matches(telRegex);
     }
 
 

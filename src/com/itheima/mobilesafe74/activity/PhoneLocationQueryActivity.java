@@ -2,6 +2,8 @@ package com.itheima.mobilesafe74.activity;
 
 import android.app.Activity;
 import android.os.Bundle;
+import android.os.Handler;
+import android.os.Message;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
@@ -20,6 +22,16 @@ public class PhoneLocationQueryActivity extends Activity {
     private TextView tv_location_display;
     private String phone_number = "";
     private String location = "";
+    private Handler mHandler = new Handler(){
+        @Override
+        public void handleMessage(Message msg) {
+            super.handleMessage(msg);
+            //2.3 显示具体的归属地信息
+            if(location != ""){
+                tv_location_display.setText(location);
+            }
+        }
+    };
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -62,13 +74,21 @@ public class PhoneLocationQueryActivity extends Activity {
 
         //2.2 获取具体的归属地信息
         if(phone_number != ""){
-            location = AddressDao.getAddress(phone_number);
+            //由于打开数据库属于耗时操作，所以需要在线程中开启
+            new Thread(){
+                @Override
+                public void run() {
+                    super.run();
+                    location = AddressDao.getAddress(phone_number);
+
+                    //由于不能在线程中更改UI界面，所以需要在主线程中修改。
+                    mHandler.sendEmptyMessage(0);
+                }
+            }.start();
+
         }
 
-        //2.3 显示具体的归属地信息
-        if(location != ""){
-            tv_location_display.setText(location);
-        }
+
 
         /*
         final String number = phone_number.substring(0,7);
