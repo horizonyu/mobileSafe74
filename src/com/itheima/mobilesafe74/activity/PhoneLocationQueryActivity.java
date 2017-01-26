@@ -1,9 +1,11 @@
 package com.itheima.mobilesafe74.activity;
 
 import android.app.Activity;
+import android.content.Context;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
+import android.os.Vibrator;
 import android.text.Editable;
 import android.text.TextUtils;
 import android.text.TextWatcher;
@@ -105,10 +107,17 @@ public class PhoneLocationQueryActivity extends Activity {
             }.start();
 
         }else{
+
             //添加抖动效果
             Animation shake = AnimationUtils.loadAnimation(getApplicationContext(), R.anim.shake);
             et_phone.startAnimation(shake);
 
+            //添加震动效果，注意此处需要在清单文件中添加获取震动的权限
+            Vibrator vibrator = (Vibrator) getSystemService(Context.VIBRATOR_SERVICE);
+            //震动两秒钟
+            vibrator.vibrate(2000);
+            //按照指定的方式震动（（停止时间，震动时间，停止时间，震动时间，......），指定震动重复的次数（-1指的是不重复震动））
+            vibrator.vibrate(new long[]{0,2000,0,2000},-1);
 
         }
 
