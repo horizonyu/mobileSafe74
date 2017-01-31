@@ -1,4 +1,4 @@
-#Thu Jan 26 19:01:18 CST 2017
+#Tue Jan 31 16:07:13 CST 2017
 base.0=E\:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_78313d933931ab25047b80c5c32dc8a83b5af466
 renamed.1=classes2.dex
 renamed.0=classes.dex

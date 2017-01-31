@@ -6,6 +6,12 @@ public class ConstantValue {
      */
     public static final String OPEN_UPDATE = "open_update";
 
+
+    /**
+     * 是否开启显示来电地址
+     */
+    public static final String OPEN_ADDRESS = "open_address";
+
     /**
      * 是否设置密码key
      */

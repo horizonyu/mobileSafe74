@@ -61,6 +61,7 @@ public class SplashActivity extends Activity {
     private String mVersionDes;
     private String mDownloadUrl;
 
+
     private Handler mHandler = new Handler() {
         @Override
         //alt+ctrl+向下箭头,向下拷贝相同代码
@@ -452,5 +453,7 @@ public class SplashActivity extends Activity {
     private void initUI() {
         tv_version_name = (TextView) findViewById(R.id.tv_version_name);
         rl_root = (RelativeLayout) findViewById(R.id.rl_root);
+
+
     }
 }

@@ -35,6 +35,9 @@
     <!-- 获取震动权限 -->
     <uses-permission android:name="android.permission.VIBRATE" />
 
+    <!-- 获取将view对象挂在到窗体中的权限 -->
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+
     <application
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
@@ -75,6 +78,7 @@
 
         <!-- 开启的服务进行注册 -->
         <service android:name="com.itheima.mobilesafe74.Service.LocaitonService" />
+        <service android:name="com.itheima.mobilesafe74.Service.AddressService" />
     </application>
 
 </manifest>

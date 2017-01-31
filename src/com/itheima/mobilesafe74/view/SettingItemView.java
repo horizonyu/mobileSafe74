@@ -1,7 +1,5 @@
 package com.itheima.mobilesafe74.view;
 
-import com.itheima.mobilesafe74.R;
-
 import android.content.Context;
 import android.util.AttributeSet;
 import android.util.Log;
@@ -10,10 +8,13 @@ import android.widget.CheckBox;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
+import com.itheima.mobilesafe74.R;
+
 public class SettingItemView extends RelativeLayout {
     private static final String NAMESPACE = "http://schemas.android.com/apk/res/com.itheima.mobilesafe74";
     private static final String tag = "SettingItemView";
     private CheckBox cb_box;
+    private TextView tv_title;
     private TextView tv_des;
     private String mDestitle;
     private String mDesoff;
@@ -37,7 +38,7 @@ public class SettingItemView extends RelativeLayout {
 		this.addView(view);*/
 
         //自定义组合控件中的标题描述
-        TextView tv_title = (TextView) findViewById(R.id.tv_title);
+        tv_title = (TextView) findViewById(R.id.tv_title);
         tv_des = (TextView) findViewById(R.id.tv_des);
         cb_box = (CheckBox) findViewById(R.id.cb_box);
 

@@ -1,11 +1,5 @@
 package com.itheima.mobilesafe74.activity;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-
-import com.itheima.mobilesafe74.R;
-
 import android.app.Activity;
 import android.content.ContentResolver;
 import android.content.Intent;
@@ -21,6 +15,14 @@ import android.widget.AdapterView.OnItemClickListener;
 import android.widget.BaseAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
+
+import com.itheima.mobilesafe74.R;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+
+//import com.itheima.mobilesafe74.R;
 
 public class ContactListActivity extends Activity {
     protected static final String tag = "ContactListActivity";
