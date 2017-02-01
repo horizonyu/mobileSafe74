@@ -4,14 +4,18 @@ import android.app.Service;
 import android.content.Context;
 import android.content.Intent;
 import android.graphics.PixelFormat;
+import android.os.Handler;
 import android.os.IBinder;
+import android.os.Message;
 import android.telephony.PhoneStateListener;
 import android.telephony.TelephonyManager;
 import android.view.Gravity;
 import android.view.View;
 import android.view.WindowManager;
+import android.widget.TextView;
 
 import com.itheima.mobilesafe74.R;
+import com.itheima.mobilesafe74.engine.AddressDao;
 import com.itheima.mobilesafe74.utils.ToastUtil;
 import com.itheima.mobilesafe74.view.SettingItemView;
 
@@ -30,6 +34,19 @@ public class AddressService extends Service {
     private final WindowManager.LayoutParams mParams = new WindowManager.LayoutParams();
     private View mToast = null;
     private WindowManager mWM;
+    private String mAddress;
+    private TextView tv_toast;
+    //消息机制
+    private Handler mHandler = new Handler(){
+        @Override
+        public void handleMessage(Message msg) {
+            super.handleMessage(msg);
+            tv_toast.setText(mAddress);
+
+        }
+    };
+
+
     @Override
     public void onCreate() {
         super.onCreate();
@@ -57,7 +74,7 @@ public class AddressService extends Service {
                 case TelephonyManager.CALL_STATE_RINGING:
                     //响铃状态
                 //    Log.i("AddressServoce",);
-                    showToast();
+                    showToast(incomingNumber);
                     ToastUtil.show(getApplicationContext(),"响铃...............");
                     break;
                 case TelephonyManager.CALL_STATE_OFFHOOK:
@@ -71,7 +88,7 @@ public class AddressService extends Service {
         }
     }
 
-    private void showToast() {
+    private void showToast(String incomingNumber) {
      //   Toast.makeText(getApplicationContext(),"响铃",Toast.LENGTH_LONG);
         //由于需要自定义Toast的显示，通过查看makeText()方法的缘，源码，进行自定义的更改
 
@@ -98,8 +115,29 @@ public class AddressService extends Service {
         //xml->view对象
        mToast = View.inflate(getApplicationContext(),R.layout.toast_view, null);
 
+        //获取布局文件中的textview控件
+        tv_toast = (TextView) mToast.findViewById(R.id.toast_view);
+
         //将此view对象挂在到windows窗口中,与此同时，还需要添加权限
         mWM.addView(mToast,params);
+
+        //查询来电的归属地
+        query(incomingNumber);
+
+    }
+
+    private void query(final String incomingNumber) {
+        //对数据库的查询操作是耗时操作，所以需要在子线程中进行
+        new Thread(){
+            @Override
+            public void run() {
+                super.run();
+                mAddress = AddressDao.getAddress(incomingNumber);
+
+                //对控件的修改在子线程中不能操作，需要在主线程中进行操作
+                mHandler.sendEmptyMessage(0);
+            }
+        }.start();
 
     }
 

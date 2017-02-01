@@ -5,40 +5,33 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.1"
-    timestamp="24004300783709"
+    timestamp="91695129180813"
     token="-4789432408356204396"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="352" />
+        duration="3962" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="21" />
+        duration="444" />
     <task
         name="verifier"
-        duration="2" />
+        duration="13" />
 
     <artifact
-        location="E:\projects\Android_Studio_projects\mobilesafe74\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
-        type="DEX" />
+        location="E:\projects\Android_Studio_projects\mobilesafe74\build\outputs\apk\mobilesafe74-debug.apk"
+        type="MAIN" />
 
     <build
-        timestamp="23463003415825"
-        verifier="MANIFEST_FILE_CHANGE" >
+        timestamp="91695129180813"
+        verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="E:\projects\Android_Studio_projects\mobilesafe74\build\outputs\apk\mobilesafe74-debug.apk"
             type="MAIN" />
-    </build>
-    <build
-        timestamp="24004300783709"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="E:\projects\Android_Studio_projects\mobilesafe74\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
-            type="DEX" />
     </build>
 
 </instant-run>
