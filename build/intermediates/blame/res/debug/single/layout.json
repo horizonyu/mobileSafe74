@@ -40,6 +40,10 @@
         "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\layout\\setting_item_view.xml"
     },
     {
+        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\layout\\setting_click_view.xml",
+        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\layout\\setting_click_view.xml"
+    },
+    {
         "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup4.xml",
         "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\layout\\activity_setup4.xml"
     },

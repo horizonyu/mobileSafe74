@@ -87,36 +87,40 @@ containing a value of this type.
         public static final int unlock=0x7f020022;
     }
     public static final class id {
-        public static final int action_settings=0x7f0c001d;
-        public static final int bt_cancel=0x7f0c0014;
+        public static final int action_settings=0x7f0c0021;
+        public static final int bt_cancel=0x7f0c0015;
         public static final int bt_query_location=0x7f0c0004;
-        public static final int bt_select_number=0x7f0c000a;
-        public static final int bt_setup_reset=0x7f0c000f;
-        public static final int bt_submit=0x7f0c0013;
-        public static final int cb_box=0x7f0c000b;
-        public static final int et_confirm_psd=0x7f0c0012;
-        public static final int et_phone_number=0x7f0c0009;
+        public static final int bt_select_number=0x7f0c000b;
+        public static final int bt_setup_reset=0x7f0c0010;
+        public static final int bt_submit=0x7f0c0014;
+        public static final int cb_box=0x7f0c000c;
+        public static final int et_confirm_psd=0x7f0c0013;
+        public static final int et_phone_number=0x7f0c000a;
         public static final int et_phone_query=0x7f0c0003;
-        public static final int et_set_psd=0x7f0c0015;
+        public static final int et_set_psd=0x7f0c0016;
         public static final int gv_home=0x7f0c0002;
-        public static final int iv_icon=0x7f0c0016;
+        public static final int iv_icon=0x7f0c0017;
+        public static final int iv_image=0x7f0c001d;
         public static final int lv_contact=0x7f0c0001;
-        public static final int rl_root=0x7f0c0010;
-        public static final int setup_safe_number=0x7f0c000c;
-        public static final int setup_safe_on=0x7f0c000e;
+        public static final int rl_root=0x7f0c0011;
+        public static final int scv_toast_style=0x7f0c0008;
+        public static final int setup_safe_number=0x7f0c000d;
+        public static final int setup_safe_on=0x7f0c000f;
         public static final int siv_address=0x7f0c0007;
-        public static final int siv_sim_bound=0x7f0c0008;
+        public static final int siv_sim_bound=0x7f0c0009;
         public static final int siv_update=0x7f0c0006;
-        public static final int toast=0x7f0c001b;
-        public static final int toast_view=0x7f0c001c;
-        public static final int tv_des=0x7f0c001a;
+        public static final int toast=0x7f0c001f;
+        public static final int toast_view=0x7f0c0020;
+        public static final int tv_des=0x7f0c001e;
         public static final int tv_location_display=0x7f0c0005;
-        public static final int tv_name=0x7f0c0018;
-        public static final int tv_phone=0x7f0c0019;
+        public static final int tv_name=0x7f0c0019;
+        public static final int tv_phone=0x7f0c001a;
         public static final int tv_query_phoneNumber_location=0x7f0c0000;
-        public static final int tv_safe_number=0x7f0c000d;
-        public static final int tv_title=0x7f0c0017;
-        public static final int tv_version_name=0x7f0c0011;
+        public static final int tv_safe_number=0x7f0c000e;
+        public static final int tv_title=0x7f0c0018;
+        public static final int tv_type_des=0x7f0c001c;
+        public static final int tv_type_title=0x7f0c001b;
+        public static final int tv_version_name=0x7f0c0012;
     }
     public static final class layout {
         public static final int activity_atool=0x7f030000;
@@ -134,8 +138,9 @@ containing a value of this type.
         public static final int dialog_set_psd=0x7f03000c;
         public static final int gridview_item=0x7f03000d;
         public static final int listview_contact_item=0x7f03000e;
-        public static final int setting_item_view=0x7f03000f;
-        public static final int toast_view=0x7f030010;
+        public static final int setting_click_view=0x7f03000f;
+        public static final int setting_item_view=0x7f030010;
+        public static final int toast_view=0x7f030011;
     }
     public static final class menu {
         public static final int main=0x7f0b0000;

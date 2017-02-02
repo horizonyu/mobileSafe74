@@ -36,4 +36,6 @@ public class ConstantValue {
      * 是否开启防盗保护key,总开关
      */
     public static final String OPEN_SECURITY = "open_security";
+
+    public static final String TOAST_STYLE = "toast_style";
 }

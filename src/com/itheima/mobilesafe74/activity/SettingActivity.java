@@ -1,6 +1,8 @@
 package com.itheima.mobilesafe74.activity;
 
 import android.app.Activity;
+import android.app.AlertDialog;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
@@ -13,11 +15,16 @@ import com.itheima.mobilesafe74.utils.ConstantValue;
 import com.itheima.mobilesafe74.utils.ServiceUtil;
 import com.itheima.mobilesafe74.utils.SpUtil;
 import com.itheima.mobilesafe74.utils.ToastUtil;
+import com.itheima.mobilesafe74.view.SettingClickView;
 import com.itheima.mobilesafe74.view.SettingItemView;
 
 public class SettingActivity extends Activity {
     private SettingItemView siv_address;
     private CheckBox cb_press;
+    private SettingClickView scv_toast_type;
+    private String[] mToast_styles;
+    private int mToast_tyle_index;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -28,6 +35,64 @@ public class SettingActivity extends Activity {
 
         //显示来电归属地信息
         initAddress();
+
+        //初始化提示信息类型
+        initAddressType();
+    }
+
+    private void initAddressType() {
+        //获取自定义显示类型控件
+        scv_toast_type = (SettingClickView) findViewById(R.id.scv_toast_style);
+        scv_toast_type.setTitle("设置归属地显示风格");
+
+        //创建toast显示类型列表
+        mToast_styles = new String[]{"透明","橙色","蓝色","灰色","绿色"};
+        //默认为0，将此值存入到SP中
+        mToast_tyle_index = SpUtil.getInt(getApplicationContext(), ConstantValue.TOAST_STYLE, 0);
+        scv_toast_type.setDes(mToast_styles[mToast_tyle_index]);
+
+        //设置控件的点击事件
+
+        scv_toast_type.setOnClickListener(new OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                //显示对话框
+                showDialog();
+
+            }
+        });
+
+    }
+
+    private void showDialog() {
+        //显示对话框
+        AlertDialog.Builder builder = new AlertDialog.Builder(this);
+
+        //设置图片，设置名称，设置单选框，设置按钮
+        builder.setIcon(R.drawable.ic_launcher);
+        builder.setTitle("请选择归属地样式");
+        builder.setSingleChoiceItems(mToast_styles, mToast_tyle_index, new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface dialog, int which) {
+                //点击事件中需要做的几件事：
+                //获取sp中存储的样式，设置描述值，退出对话框
+        //        int toast_tyle = SpUtil.getInt(getApplicationContext(), ConstantValue.TOAST_STYLE, 0);
+
+                SpUtil.putInt(getApplicationContext(),ConstantValue.TOAST_STYLE,which);
+                dialog.dismiss();
+                scv_toast_type.setDes(mToast_styles[which]);
+            }
+        });
+        builder.setNegativeButton("取消", new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface dialog, int which) {
+                dialog.dismiss();
+            }
+        });
+        builder.show();
+
+
+
     }
 
     private void initAddress() {

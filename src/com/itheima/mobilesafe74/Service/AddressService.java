@@ -16,6 +16,8 @@ import android.widget.TextView;
 
 import com.itheima.mobilesafe74.R;
 import com.itheima.mobilesafe74.engine.AddressDao;
+import com.itheima.mobilesafe74.utils.ConstantValue;
+import com.itheima.mobilesafe74.utils.SpUtil;
 import com.itheima.mobilesafe74.utils.ToastUtil;
 import com.itheima.mobilesafe74.view.SettingItemView;
 
@@ -45,6 +47,7 @@ public class AddressService extends Service {
 
         }
     };
+    private int[] mDrawableId;
 
 
     @Override
@@ -113,10 +116,22 @@ public class AddressService extends Service {
         params.gravity = Gravity.CENTER;
 
         //xml->view对象
-       mToast = View.inflate(getApplicationContext(),R.layout.toast_view, null);
+        mToast = View.inflate(getApplicationContext(),R.layout.toast_view, null);
 
         //获取布局文件中的textview控件
         tv_toast = (TextView) mToast.findViewById(R.id.toast_view);
+
+        //自定义来电显示背景颜色
+        mDrawableId = new int[]{
+                R.drawable.call_locate_white,
+                R.drawable.call_locate_orange,
+                R.drawable.call_locate_blue,
+                R.drawable.call_locate_gray,
+                R.drawable.call_locate_green
+        };
+
+        int toastStyleIndex = SpUtil.getInt(getApplicationContext(), ConstantValue.TOAST_STYLE, 0);
+        tv_toast.setBackgroundResource(mDrawableId[toastStyleIndex]);
 
         //将此view对象挂在到windows窗口中,与此同时，还需要添加权限
         mWM.addView(mToast,params);
