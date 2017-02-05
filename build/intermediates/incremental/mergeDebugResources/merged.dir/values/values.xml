@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="com.itheima.mobilesafe74.view.SettingItemView"><attr format="string" name="destitle"/><attr format="string" name="desoff"/><attr format="string" name="deson"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">mobilesafe74</string>
+    <string name="device_admin_description">一键锁屏，一键清除数据</string>
+    <string name="hello_world">Hello world!</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- 在去头的同时,还保留高版本的样式主题 -->
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="TitleStyle">
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:background">#0f0</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="nextBtn">
+        <item name="android:text">下一页</item>
+        <item name="android:onClick">nextPage</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_alignParentBottom">true</item>
+        <item name="android:drawableRight">@drawable/next</item>
+        <item name="android:background">@drawable/selector_next_btn_bg</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="preBtn">
+        <item name="android:text">上一页</item>
+        <item name="android:onClick">prePage</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:layout_alignParentBottom">true</item>
+        <item name="android:drawableLeft">@drawable/previous</item>
+        <item name="android:background">@drawable/selector_next_btn_bg</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+</resources>

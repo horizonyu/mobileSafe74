@@ -1,11 +1,11 @@
 [
     {
-        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\previous.png",
-        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\drawable-hdpi\\previous.png"
-    },
-    {
         "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\call_locate_gray.png",
         "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\drawable-hdpi\\call_locate_gray.png"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\previous.png",
+        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\drawable-hdpi\\previous.png"
     },
     {
         "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_green_normal.png",
@@ -96,12 +96,12 @@
         "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\drawable-hdpi\\call_locate_blue.png"
     },
     {
-        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bind.png",
-        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\drawable-hdpi\\bind.png"
-    },
-    {
         "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\call_locate_white.png",
         "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\drawable-hdpi\\call_locate_white.png"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bind.png",
+        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\drawable-hdpi\\bind.png"
     },
     {
         "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",

@@ -37,5 +37,36 @@ public class ConstantValue {
      */
     public static final String OPEN_SECURITY = "open_security";
 
+    /**
+     * toast 样式
+     */
     public static final String TOAST_STYLE = "toast_style";
+
+    /**
+     * toast显示的left坐标
+     */
+    public static final String TOAST_LEFT = "toast_left";
+    /**
+     * toast显示的top坐标
+     */
+    public static final String TOAST_TOP = "toast_top";
+    /**
+     * toast显示的right坐标
+     */
+    public static final String TOAST_RIGHT = "toast_right";
+    /**
+     * toast显示的bottom坐标
+     */
+    public static final String TOAST_BOTTOM = "toast_bottom";
+
+    /**
+     * toast显示的right坐标
+     */
+    public static final String TOAST_LOCATION_X = "toast_location_x";
+    /**
+     * toast显示的bottom坐标
+     */
+    public static final String TOAST_LOCATION_Y = "toast_location_y";
+
+
 }

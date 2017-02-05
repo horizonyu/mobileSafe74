@@ -1,9 +1,11 @@
 package com.itheima.mobilesafe74.Service;
 
+import android.annotation.TargetApi;
 import android.app.Service;
 import android.content.Context;
 import android.content.Intent;
 import android.graphics.PixelFormat;
+import android.os.Build;
 import android.os.Handler;
 import android.os.IBinder;
 import android.os.Message;
@@ -91,6 +93,7 @@ public class AddressService extends Service {
         }
     }
 
+    @TargetApi(Build.VERSION_CODES.HONEYCOMB)
     private void showToast(String incomingNumber) {
      //   Toast.makeText(getApplicationContext(),"响铃",Toast.LENGTH_LONG);
         //由于需要自定义Toast的显示，通过查看makeText()方法的缘，源码，进行自定义的更改
@@ -115,8 +118,15 @@ public class AddressService extends Service {
         //设置自定义toast的的位置
         params.gravity = Gravity.CENTER;
 
+
         //xml->view对象
         mToast = View.inflate(getApplicationContext(),R.layout.toast_view, null);
+
+        //TODO 获取存储在sp中所设置的toast的位置
+        int toastX = SpUtil.getInt(getApplicationContext(), ConstantValue.TOAST_LOCATION_X, 0);
+        int toastY = SpUtil.getInt(getApplicationContext(), ConstantValue.TOAST_LOCATION_Y, 0);
+
+
 
         //获取布局文件中的textview控件
         tv_toast = (TextView) mToast.findViewById(R.id.toast_view);

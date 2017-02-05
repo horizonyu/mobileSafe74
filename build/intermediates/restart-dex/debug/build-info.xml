@@ -5,7 +5,7 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.1"
-    timestamp="2308592771300"
+    timestamp="245174406961844"
     token="-4789432408356204396"
     verifier="COLD_SWAP_REQUESTED" >
 
@@ -17,31 +17,24 @@
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="22" />
+        duration="103" />
     <task
         name="verifier"
-        duration="2" />
+        duration="10" />
 
     <artifact
-        location="E:\projects\Android_Studio_projects\mobilesafe74\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+        location="E:\projects\Android_Studio_projects\mobilesafe74\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
         type="DEX" />
 
     <build
-        timestamp="1878459673268"
+        timestamp="244540307184802"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="E:\projects\Android_Studio_projects\mobilesafe74\build\outputs\apk\mobilesafe74-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="2308592771300"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="E:\projects\Android_Studio_projects\mobilesafe74\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
-            type="DEX" />
-    </build>
-    <build
-        timestamp="130036546622485"
+        timestamp="245174406961844"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="E:\projects\Android_Studio_projects\mobilesafe74\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
