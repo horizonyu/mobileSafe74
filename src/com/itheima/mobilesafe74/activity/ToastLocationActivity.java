@@ -94,10 +94,14 @@ public class ToastLocationActivity extends Activity {
                 if((clicks[1] - clicks[0]) < 500){
 
                     //控件处于屏幕的中间位置
+                    int left = mWidth/2 - iv_drag.getWidth()/2;
+                    int top = mHeight/2 - iv_drag.getHeight()/2;
+                    int right = mWidth/2 + iv_drag.getWidth()/2;
+                    int bottom = mHeight/2 + iv_drag.getHeight()/2;
                     //（left,top,right,bottom）-> (mWidth/2 + iv.drag.getWidth()/2,mHeight/2 + iv_drag.getHeight()/2,mWidth/2 + iv_drag.getWidth()/2,mHeight/2 + iv_drag.getHeight()/2)
-                    iv_drag.layout(mWidth/2 - iv_drag.getWidth()/2,mHeight/2 - iv_drag.getHeight()/2,mWidth/2 + iv_drag.getWidth()/2,mHeight/2 + iv_drag.getHeight()/2);
-                    SpUtil.putInt(getApplicationContext(),ConstantValue.TOAST_LOCATION_X,mWidth/2);
-                    SpUtil.putInt(getApplicationContext(),ConstantValue.TOAST_LOCATION_Y,mHeight/2);
+                    iv_drag.layout(left,top,right,bottom);
+                    SpUtil.putInt(getApplicationContext(),ConstantValue.TOAST_LOCATION_X,left);
+                    SpUtil.putInt(getApplicationContext(),ConstantValue.TOAST_LOCATION_Y,top);
                     ToastUtil.show(getApplicationContext(),"双击");
                 }
             }
@@ -139,7 +143,7 @@ public class ToastLocationActivity extends Activity {
                         bottom = iv_drag.getBottom() + moveY;
 
                         //设置图片的显示边界不能超过屏幕的边界
-                        if(left < 0 || right > mWidth || top <0 || bottom > mHeight){
+                        if(left <= 0 || right >= mWidth || top <= 0 || bottom >= mHeight -46){
                             return true;
                         }
 

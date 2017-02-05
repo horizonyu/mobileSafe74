@@ -5,39 +5,39 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.1"
-    timestamp="245174406961844"
+    timestamp="259561896437639"
     token="-4789432408356204396"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="591" />
+        duration="226" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="103" />
+        duration="12" />
     <task
         name="verifier"
-        duration="10" />
+        duration="1" />
 
     <artifact
-        location="E:\projects\Android_Studio_projects\mobilesafe74\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+        location="E:\projects\Android_Studio_projects\mobilesafe74\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
         type="DEX" />
 
     <build
-        timestamp="244540307184802"
+        timestamp="254083071451692"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="E:\projects\Android_Studio_projects\mobilesafe74\build\outputs\apk\mobilesafe74-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="245174406961844"
+        timestamp="259561896437639"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="E:\projects\Android_Studio_projects\mobilesafe74\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+            location="E:\projects\Android_Studio_projects\mobilesafe74\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
             type="DEX" />
     </build>
 

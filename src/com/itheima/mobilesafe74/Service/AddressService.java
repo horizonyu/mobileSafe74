@@ -11,11 +11,11 @@ import android.os.IBinder;
 import android.os.Message;
 import android.telephony.PhoneStateListener;
 import android.telephony.TelephonyManager;
-import android.view.Gravity;
+import android.view.MotionEvent;
 import android.view.View;
 import android.view.WindowManager;
 import android.widget.TextView;
-
+import android.view.Gravity;
 import com.itheima.mobilesafe74.R;
 import com.itheima.mobilesafe74.engine.AddressDao;
 import com.itheima.mobilesafe74.utils.ConstantValue;
@@ -50,6 +50,8 @@ public class AddressService extends Service {
         }
     };
     private int[] mDrawableId;
+    private int mWidth;
+    private int mHeight;
 
 
     @Override
@@ -60,6 +62,11 @@ public class AddressService extends Service {
         tm.listen(mp,PhoneStateListener.LISTEN_CALL_STATE);
 
         mWM = (WindowManager) getSystemService(WINDOW_SERVICE);
+
+        //获取屏幕的宽高
+        mWidth = mWM.getDefaultDisplay().getWidth();
+        mHeight = mWM.getDefaultDisplay().getHeight();
+
     }
 
     class MyPhoneStateListener extends PhoneStateListener {
@@ -93,11 +100,15 @@ public class AddressService extends Service {
         }
     }
 
+    /**
+     * 显示来电归属地
+     * @param incomingNumber 来电号码
+     *
+     */
     @TargetApi(Build.VERSION_CODES.HONEYCOMB)
     private void showToast(String incomingNumber) {
      //   Toast.makeText(getApplicationContext(),"响铃",Toast.LENGTH_LONG);
         //由于需要自定义Toast的显示，通过查看makeText()方法的缘，源码，进行自定义的更改
-
         // XXX This should be changed to use a Dialog, with a Theme.Toast
         // defined that sets up the layout params appropriately.
         final WindowManager.LayoutParams params = mParams;
@@ -114,22 +125,77 @@ public class AddressService extends Service {
         //toast的显示等级,和来电等级一致
         params.type = WindowManager.LayoutParams.TYPE_PHONE;
         params.setTitle("Toast");
-
+        params.gravity = Gravity.TOP + Gravity.LEFT;
         //设置自定义toast的的位置
-        params.gravity = Gravity.CENTER;
+        params.x = SpUtil.getInt(getApplicationContext(),ConstantValue.TOAST_LOCATION_X,0);
+        params.y = SpUtil.getInt(getApplicationContext(),ConstantValue.TOAST_LOCATION_Y,0);
+
 
 
         //xml->view对象
         mToast = View.inflate(getApplicationContext(),R.layout.toast_view, null);
 
-        //TODO 获取存储在sp中所设置的toast的位置
-        int toastX = SpUtil.getInt(getApplicationContext(), ConstantValue.TOAST_LOCATION_X, 0);
-        int toastY = SpUtil.getInt(getApplicationContext(), ConstantValue.TOAST_LOCATION_Y, 0);
-
-
-
         //获取布局文件中的textview控件
         tv_toast = (TextView) mToast.findViewById(R.id.toast_view);
+
+        //设置toast的触摸事件
+        mToast.setOnTouchListener(new View.OnTouchListener() {
+            public int endY;
+            public int endX;
+            public int startY;
+            public int startX;
+
+            @Override
+            public boolean onTouch(View v, MotionEvent event) {
+                switch (event.getAction()){
+                    case MotionEvent.ACTION_DOWN:
+                        //鼠标按下获取控件为（x,y）坐标
+                        startX = (int) event.getRawX();
+                        startY = (int) event.getRawY();
+                        break;
+                    case MotionEvent.ACTION_MOVE:
+
+                        //鼠标移动时，通过公式随时计算控件的位置
+                        endX = (int) event.getRawX();
+                        endY = (int) event.getRawY();
+
+                        //获取控件已经移动过得位置
+                        int moveX = endX - startX;
+                        int moveY = endY - startY;
+
+                        //计算控件现在所处的位置
+                        params.x = params.x + moveX;
+                        params.y = params.y + moveY;
+
+                        if(params.x < 0){
+                            params.x = 0;
+                        }
+                        if(params.y < 0){
+                            params.y = 0;
+                        }
+                        if(params.x > mWidth - mToast.getWidth()){
+                            params.x = mWidth - mToast.getWidth();
+                        }
+                        if(params.y > mHeight - mToast.getHeight()){
+                            params.y = mHeight - mToast.getHeight() - 46;
+                        }
+
+                        //随时设置显示控件的位置
+                        mWM.updateViewLayout(mToast,params);
+
+                        startX = (int) event.getRawX();
+                        startY = (int) event.getRawY();
+
+                        break;
+                    case MotionEvent.ACTION_UP:
+                        SpUtil.putInt(getApplicationContext(), ConstantValue.TOAST_LOCATION_X,params.x);
+                        SpUtil.putInt(getApplicationContext(), ConstantValue.TOAST_LOCATION_Y,params.y);
+                        break;
+                }
+                return true;
+
+            }
+        });
 
         //自定义来电显示背景颜色
         mDrawableId = new int[]{
