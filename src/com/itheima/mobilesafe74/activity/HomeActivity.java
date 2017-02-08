@@ -76,16 +76,32 @@ public class HomeActivity extends Activity {
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                 switch (position) {
                     case 0:
+                        //手机防盗
                         //开启对话框
                         showDialog();
                         break;
+                    case 1:
+                        //通信卫士
+                        //跳转到黑名单界面
+                        startActivity(new Intent(HomeActivity.this,BlackListActivity.class));
+                        break;
+                    case 2:
+                        break;
+                    case 4:
+                        break;
+                    case 5:
+                        break;
+                    case 6:
+                        break;
 
-                    //进入到高级工具的设置界面
+
                     case 7:
+                        //高级工具
+                        //进入到高级工具的设置界面
                         startActivity(new Intent(HomeActivity.this, AToolActivity.class));
                         break;
                     case 8:
-
+                        //设置中心
                         //进入到设置界面
                         Intent intent = new Intent(getApplicationContext(), SettingActivity.class);
                         startActivity(intent);

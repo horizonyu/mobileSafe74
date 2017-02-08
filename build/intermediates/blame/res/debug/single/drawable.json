@@ -14,5 +14,9 @@
     {
         "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_atool_item_bg.xml",
         "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\drawable\\selector_atool_item_bg.xml"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_blacklist_background.xml",
+        "source": "E:\\projects\\Android_Studio_projects\\mobilesafe74\\res\\drawable\\selector_blacklist_background.xml"
     }
 ]

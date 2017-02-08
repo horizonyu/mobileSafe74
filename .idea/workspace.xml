@@ -23,12 +23,65 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="215462e9-2072-4622-8fe1-49d2567d3b69" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/Service/AddressService$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/Service/AddressService$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/Service/AddressService$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/com/itheima/mobilesafe74/Service/AddressService$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/buildId.txt" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/buildId.txt" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/Service/AddressService$InnerOutingCallReceiver.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/activity/BlackListActivity$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/activity/BlackListActivity$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/activity/BlackListActivity$MyBlackListAdapter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/activity/BlackListActivity.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/dao/BlackListDBDao.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/dao/BlackListInfoDao.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/db/BlackListOpenHelper.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/tests/Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/Service/AddressService$InnerOutingCallReceiver.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/activity/BlackListActivity$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/activity/BlackListActivity$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/activity/BlackListActivity$MyBlackListAdapter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/activity/BlackListActivity.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/dao/BlackListDBDao.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/dao/BlackListInfoDao.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/db/BlackListOpenHelper.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/tests/Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-hdpi-v4/main_clean_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-hdpi-v4/main_clean_icon_pressed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/Service/AddressService$InnerOutingCallReceiver.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/activity/BlackListActivity$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/activity/BlackListActivity$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/activity/BlackListActivity$MyBlackListAdapter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/activity/BlackListActivity.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/dao/BlackListDBDao.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/dao/BlackListInfoDao.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/db/BlackListOpenHelper.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/tests/Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/itheima/mobilesafe74/dao/BlackListDBDao.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/itheima/mobilesafe74/dao/BlackListInfoDao.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/itheima/mobilesafe74/activity/BlackListActivity$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/itheima/mobilesafe74/activity/BlackListActivity$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/itheima/mobilesafe74/activity/BlackListActivity$MyBlackListAdapter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/itheima/mobilesafe74/activity/BlackListActivity.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/itheima/mobilesafe74/tests/Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/itheima/mobilesafe74/db/BlackListOpenHelper.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/com/itheima/mobilesafe74/Service/AddressService$InnerOutingCallReceiver.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/main_clean_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/main_clean_icon_pressed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable/selector_blacklist_background.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/layout/activty_blacklist.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/layout/blacklist_item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/buildId.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/buildId.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/buildId.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/selector_blacklist_background.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/activty_blacklist.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/blacklist_item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/mobilesafe74/activity/BlackListActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/mobilesafe74/dao/BlackListInfoDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/mobilesafe74/dao/BlackListdbDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/mobilesafe74/db/BlackListOpenHelper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/itheima/mobilesafe74/tests/Test.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-land-v13/values-sw720dp-land-v13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/buildId.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" />
@@ -38,53 +91,142 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/generated/mockable-android-18.jar" afterPath="$PROJECT_DIR$/build/generated/mockable-android-18.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/R$drawable.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/R$id.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/R$layout.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/R$menu.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/R$menu.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/R$raw.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/R$raw.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/R$string.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/R$style.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/R$styleable.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/R$xml.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/R$xml.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/Service/AddressService$1.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/Service/AddressService$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/Service/AddressService$2.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/Service/AddressService$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/Service/AddressService$3.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/Service/AddressService$3.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/Service/AddressService$MyPhoneStateListener.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/Service/AddressService$MyPhoneStateListener.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/Service/AddressService.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/Service/AddressService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/activity/ToastLocationActivity$2.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/activity/ToastLocationActivity$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/activity/ToastLocationActivity$3.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/activity/ToastLocationActivity$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/activity/ContactListActivity$MyAdapter.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/activity/ContactListActivity$MyAdapter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/activity/HomeActivity$1.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/activity/HomeActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/activity/HomeActivity$2.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/activity/HomeActivity$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/activity/HomeActivity$3.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/activity/HomeActivity$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/activity/HomeActivity$4.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/activity/HomeActivity$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/activity/HomeActivity$5.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/activity/HomeActivity$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/activity/HomeActivity$MyAdapter.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/activity/HomeActivity$MyAdapter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/activity/HomeActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/activity/HomeActivity.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/activity/ToastLocationActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/activity/ToastLocationActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/view/SettingClickView.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/view/SettingClickView.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/view/SettingItemView.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/itheima/mobilesafe74/view/SettingItemView.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" afterPath="$PROJECT_DIR$/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-runtime-classes/debug/instant-run.jar" afterPath="$PROJECT_DIR$/build/intermediates/incremental-runtime-classes/debug/instant-run.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/R$drawable.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/R$id.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/R$layout.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/R$menu.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/R$menu.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/R$raw.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/R$raw.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/R$string.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/R$style.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/R$styleable.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/R$xml.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/R$xml.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/Service/AddressService$1.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/Service/AddressService$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/Service/AddressService$2.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/Service/AddressService$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/Service/AddressService$3.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/Service/AddressService$3.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/Service/AddressService$MyPhoneStateListener.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/Service/AddressService$MyPhoneStateListener.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/Service/AddressService.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/Service/AddressService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/activity/ToastLocationActivity$2.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/activity/ToastLocationActivity$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/activity/ToastLocationActivity$3.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/activity/ToastLocationActivity$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/activity/ContactListActivity$MyAdapter.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/activity/ContactListActivity$MyAdapter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/activity/HomeActivity$1.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/activity/HomeActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/activity/HomeActivity$2.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/activity/HomeActivity$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/activity/HomeActivity$3.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/activity/HomeActivity$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/activity/HomeActivity$4.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/activity/HomeActivity$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/activity/HomeActivity$5.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/activity/HomeActivity$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/activity/HomeActivity$MyAdapter.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/activity/HomeActivity$MyAdapter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/activity/HomeActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/activity/HomeActivity.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/activity/ToastLocationActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/activity/ToastLocationActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/view/SettingClickView.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/view/SettingClickView.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/view/SettingItemView.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/itheima/mobilesafe74/view/SettingItemView.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/packageDebug/zip-cache/W+nGvHEthBduZWQ9mAn0lRxLkdM=" afterPath="$PROJECT_DIR$/build/intermediates/incremental/packageDebug/zip-cache/W+nGvHEthBduZWQ9mAn0lRxLkdM=" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/packageInstantRunResourcesDebug/zip-cache/W+nGvHEthBduZWQ9mAn0lRxLkdM=" afterPath="$PROJECT_DIR$/build/intermediates/incremental/packageInstantRunResourcesDebug/zip-cache/W+nGvHEthBduZWQ9mAn0lRxLkdM=" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-resources/resources-debug.ir.ap_" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-resources/resources-debug.ir.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/instant-run.zip" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/instant-run.zip" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/build/intermediates/res/resources-debug-androidTest.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/build/intermediates/res/resources-debug.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex" afterPath="$PROJECT_DIR$/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex" afterPath="$PROJECT_DIR$/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex" afterPath="$PROJECT_DIR$/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex" afterPath="$PROJECT_DIR$/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/R$drawable.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/R$id.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/R$layout.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/R$menu.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/R$menu.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/R$raw.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/R$raw.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/R$string.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/R$style.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/R$styleable.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/R$xml.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/R$xml.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/Service/AddressService$1.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/Service/AddressService$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/Service/AddressService$2.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/Service/AddressService$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/Service/AddressService$3.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/Service/AddressService$3.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/Service/AddressService$MyPhoneStateListener.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/Service/AddressService$MyPhoneStateListener.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/Service/AddressService.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/Service/AddressService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/activity/ToastLocationActivity$2.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/activity/ToastLocationActivity$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/activity/ToastLocationActivity$3.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/activity/ToastLocationActivity$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/activity/ContactListActivity$MyAdapter.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/activity/ContactListActivity$MyAdapter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/activity/HomeActivity$1.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/activity/HomeActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/activity/HomeActivity$2.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/activity/HomeActivity$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/activity/HomeActivity$3.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/activity/HomeActivity$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/activity/HomeActivity$4.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/activity/HomeActivity$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/activity/HomeActivity$5.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/activity/HomeActivity$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/activity/HomeActivity$MyAdapter.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/activity/HomeActivity$MyAdapter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/activity/HomeActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/activity/HomeActivity.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/activity/ToastLocationActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/activity/ToastLocationActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/itheima/mobilesafe74/activity/ToastLocationActivity$2.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/itheima/mobilesafe74/activity/ToastLocationActivity$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/itheima/mobilesafe74/activity/ToastLocationActivity$3.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/itheima/mobilesafe74/activity/ToastLocationActivity$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/view/SettingClickView.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/view/SettingClickView.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/view/SettingItemView.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/itheima/mobilesafe74/view/SettingItemView.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/itheima/mobilesafe74/activity/ContactListActivity$MyAdapter.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/itheima/mobilesafe74/activity/ContactListActivity$MyAdapter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/itheima/mobilesafe74/activity/HomeActivity$1.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/itheima/mobilesafe74/activity/HomeActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/itheima/mobilesafe74/activity/HomeActivity$2.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/itheima/mobilesafe74/activity/HomeActivity$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/itheima/mobilesafe74/activity/HomeActivity$3.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/itheima/mobilesafe74/activity/HomeActivity$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/itheima/mobilesafe74/activity/HomeActivity$4.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/itheima/mobilesafe74/activity/HomeActivity$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/itheima/mobilesafe74/activity/HomeActivity$5.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/itheima/mobilesafe74/activity/HomeActivity$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/itheima/mobilesafe74/activity/HomeActivity$MyAdapter.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/itheima/mobilesafe74/activity/HomeActivity$MyAdapter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/itheima/mobilesafe74/activity/HomeActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/itheima/mobilesafe74/activity/HomeActivity.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/itheima/mobilesafe74/activity/ToastLocationActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/itheima/mobilesafe74/activity/ToastLocationActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/itheima/mobilesafe74/view/SettingClickView.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/itheima/mobilesafe74/view/SettingClickView.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/itheima/mobilesafe74/view/SettingItemView.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/itheima/mobilesafe74/view/SettingItemView.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/itheima/mobilesafe74/R$drawable.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/itheima/mobilesafe74/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/itheima/mobilesafe74/R$id.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/itheima/mobilesafe74/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/itheima/mobilesafe74/R$layout.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/itheima/mobilesafe74/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/itheima/mobilesafe74/R$menu.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/itheima/mobilesafe74/R$menu.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/itheima/mobilesafe74/R$raw.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/itheima/mobilesafe74/R$raw.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/itheima/mobilesafe74/R$string.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/itheima/mobilesafe74/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/itheima/mobilesafe74/R$style.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/itheima/mobilesafe74/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/itheima/mobilesafe74/R$styleable.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/itheima/mobilesafe74/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/itheima/mobilesafe74/R$xml.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/itheima/mobilesafe74/R$xml.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/com/itheima/mobilesafe74/Service/AddressService$1.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/com/itheima/mobilesafe74/Service/AddressService$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/com/itheima/mobilesafe74/Service/AddressService$2.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/com/itheima/mobilesafe74/Service/AddressService$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/com/itheima/mobilesafe74/Service/AddressService$3.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/com/itheima/mobilesafe74/Service/AddressService$3.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/com/itheima/mobilesafe74/Service/AddressService$MyPhoneStateListener.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/com/itheima/mobilesafe74/Service/AddressService$MyPhoneStateListener.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/com/itheima/mobilesafe74/Service/AddressService.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/com/itheima/mobilesafe74/Service/AddressService.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/outputs/apk/mobilesafe74-debug.apk" afterPath="$PROJECT_DIR$/build/outputs/apk/mobilesafe74-debug.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/generated/source/r/debug/com/itheima/mobilesafe74/R.java" afterPath="$PROJECT_DIR$/build/generated/source/r/debug/com/itheima/mobilesafe74/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/layout.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/layout.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/packageDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/build/intermediates/incremental/packageDebug/file-input-save-data.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/packageInstantRunResourcesDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/build/intermediates/incremental/packageInstantRunResourcesDebug/dex-renamer-state.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/packageInstantRunResourcesDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/build/intermediates/incremental/packageInstantRunResourcesDebug/file-input-save-data.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/manifest.crc" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/manifest.crc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/manifest.xml" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/manifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/manifests/instant-run/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/build/intermediates/manifests/instant-run/debug/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/restart-dex/debug/build-info.xml" afterPath="$PROJECT_DIR$/build/intermediates/restart-dex/debug/build-info.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/build/outputs/logs/manifest-merger-debug-report.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/itheima/mobilesafe74/Service/AddressService.java" afterPath="$PROJECT_DIR$/src/com/itheima/mobilesafe74/Service/AddressService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/itheima/mobilesafe74/activity/ToastLocationActivity.java" afterPath="$PROJECT_DIR$/src/com/itheima/mobilesafe74/activity/ToastLocationActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/itheima/mobilesafe74/activity/HomeActivity.java" afterPath="$PROJECT_DIR$/src/com/itheima/mobilesafe74/activity/HomeActivity.java" />
     </list>
     <list id="5ed3085a-3540-40aa-9fa7-1219bc4ae490" name="Rejected commit: Default" comment="第二次提交——添加了AddressDao类" />
     <ignored path="mobilesafe74.iws" />
@@ -138,64 +280,58 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AddressService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/itheima/mobilesafe74/Service/AddressService.java">
+      <file leaf-file-name="HomeActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/itheima/mobilesafe74/activity/HomeActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-744">
-              <caret line="125" column="12" selection-start-line="125" selection-start-column="12" selection-end-line="125" selection-end-column="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="docComment;class#AddressService#0" expanded="true" />
-                <element signature="e#1385#1561#0" expanded="true" />
-                <element signature="e#1560#1561#0" expanded="true" />
-                <element signature="docComment;method#showToast#0;class#AddressService#0" expanded="true" />
-                <element signature="class#4919:7078" expanded="false" />
-                <element signature="e#7787#8066#0" expanded="true" />
-                <element signature="e#8065#8066#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SettingActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/itheima/mobilesafe74/activity/SettingActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2730">
-              <caret line="147" column="74" selection-start-line="147" selection-start-column="74" selection-end-line="147" selection-end-column="74" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="docComment;method#initToastLocation#0;class#SettingActivity#0" expanded="true" />
-                <element signature="docComment;method#setToastLoacation#0;class#SettingActivity#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ToastLocationActivity.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/itheima/mobilesafe74/activity/ToastLocationActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="84" column="0" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="docComment;method#initToastUI#0;class#ToastLocationActivity#0" expanded="true" />
-                <element signature="e#2726#3885#0" expanded="true" />
-                <element signature="e#3884#3885#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="toast_location.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/layout/toast_location.xml">
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+            <state relative-caret-position="693">
+              <caret line="60" column="25" selection-start-line="60" selection-start-column="25" selection-end-line="60" selection-end-column="25" />
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BlackListActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/itheima/mobilesafe74/activity/BlackListActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1365">
+              <caret line="91" column="74" selection-start-line="91" selection-start-column="74" selection-end-line="91" selection-end-column="74" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1257#1258#0" expanded="true" />
+                <element signature="e#1326#1327#0" expanded="true" />
+                <element signature="docComment;method#initInfo#0;class#BlackListActivity#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BlackListDBDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/itheima/mobilesafe74/dao/BlackListDBDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="docComment;class#BlackListDBDao#0" expanded="true" />
+                <element signature="docComment;method#insert#0;class#BlackListDBDao#0" expanded="true" />
+                <element signature="docComment;method#delete#0;class#BlackListDBDao#0" expanded="true" />
+                <element signature="docComment;method#update#0;class#BlackListDBDao#0" expanded="true" />
+                <element signature="docComment;method#queryAll#0;class#BlackListDBDao#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blacklist_item.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/res/layout/blacklist_item.xml">
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="android-designer2">
+            <state />
           </provider>
         </entry>
       </file>
@@ -204,10 +340,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="ASClass" />
         <option value="layoutResourceFile_vertical" />
         <option value="Class" />
         <option value="layoutResourceFile" />
+        <option value="ASClass" />
       </list>
     </option>
   </component>
@@ -1042,7 +1178,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/itheima/mobilesafe74/activity/HomeActivity.java" />
         <option value="$PROJECT_DIR$/res/layout/activity_location_query.xml" />
         <option value="$PROJECT_DIR$/src/com/itheima/mobilesafe74/activity/PhoneLocationQuery.java" />
         <option value="$PROJECT_DIR$/res/values-v11/color.xml" />
@@ -1063,19 +1198,32 @@
         <option value="$PROJECT_DIR$/src/com/itheima/mobilesafe74/view/SettingClickView.java" />
         <option value="$PROJECT_DIR$/src/com/itheima/mobilesafe74/utils/SpUtil.java" />
         <option value="$PROJECT_DIR$/res/layout/activity_setting.xml" />
-        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/res/layout/toast_location.xml" />
         <option value="$PROJECT_DIR$/src/com/itheima/mobilesafe74/activity/SettingActivity.java" />
         <option value="$PROJECT_DIR$/src/com/itheima/mobilesafe74/utils/ConstantValue.java" />
         <option value="$PROJECT_DIR$/src/com/itheima/mobilesafe74/activity/ToastLocationActivity.java" />
         <option value="$PROJECT_DIR$/src/com/itheima/mobilesafe74/Service/AddressService.java" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/src/com/itheima/mobilesafe74/activity/HomeActivity.java" />
+        <option value="$PROJECT_DIR$/res/layout/activty_blacklist.xml" />
+        <option value="$PROJECT_DIR$/src/com/itheima/mobilesafe74/dbDao/BlackListdbDao.java" />
+        <option value="$PROJECT_DIR$/src/com/itheima/mobilesafe74/dao/StringDao.java" />
+        <option value="$PROJECT_DIR$/src/com/itheima/mobilesafe74/db/BlackListdb.java" />
+        <option value="$PROJECT_DIR$/src/com/itheima/mobilesafe74/db/BlackListOpenHelper.java" />
+        <option value="$PROJECT_DIR$/src/com/itheima/mobilesafe74/dao/BlackListInfoDao.java" />
+        <option value="$PROJECT_DIR$/src/com/itheima/mobilesafe74/dao/BlackListdbDao.java" />
+        <option value="$PROJECT_DIR$/res/drawable/selector_blacklist_background.xml" />
+        <option value="$PROJECT_DIR$/src/com/itheima/mobilesafe74/tests/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/itheima/mobilesafe74/activity/BlackListActivity.java" />
+        <option value="$PROJECT_DIR$/src/com/itheima/mobilesafe74/dao/BlackListDBDao.java" />
+        <option value="$PROJECT_DIR$/res/layout/blacklist_item.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
+    <option name="x" value="31" />
+    <option name="y" value="22" />
+    <option name="width" value="1378" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -1103,7 +1251,20 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="AndroidView">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mobilesafe74" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="Scope">
+        <subPane subId="Problems" />
         <subPane subId="Project Files">
           <PATH>
             <PATH_ELEMENT USER_OBJECT="Root">
@@ -1117,19 +1278,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="AndroidView">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mobilesafe74" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="ProjectPane" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1144,19 +1293,23 @@
     <property name="last_directory_selection" value="$PROJECT_DIR$/res/drawable-hdpi" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.itheima.mobilesafe74.activity" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\projects\Android_Studio_projects\mobilesafe74\res\drawable" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\projects\Android_Studio_projects\mobilesafe74\res\drawable-hdpi" />
+      <recent name="E:\projects\Android_Studio_projects\mobilesafe74\res\layout" />
+      <recent name="E:\projects\Android_Studio_projects\mobilesafe74\res\anim" />
+      <recent name="E:\projects\Android_Studio_projects\mobilesafe74\assets" />
+      <recent name="E:\projects\Android_Studio_projects\mobilesafe74\res\values-v11" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.itheima.mobilesafe74.view" />
       <recent name="com.itheima.mobilesafe74.Service" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\projects\Android_Studio_projects\mobilesafe74\res\layout" />
-      <recent name="E:\projects\Android_Studio_projects\mobilesafe74\res\drawable-hdpi" />
-      <recent name="E:\projects\Android_Studio_projects\mobilesafe74\res\anim" />
-      <recent name="E:\projects\Android_Studio_projects\mobilesafe74\assets" />
-      <recent name="E:\projects\Android_Studio_projects\mobilesafe74\res\values-v11" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.itheima.mobilesafe74.activity" />
+      <recent name="com.itheima.mobilesafe74.Service" />
     </key>
   </component>
   <component name="RunManager" selected="Android App.mobilesafe74">
@@ -1424,7 +1577,7 @@
         <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
       </Native>
       <Profilers>
-        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="ENABLE_ADVANCED_PROFILING" value="false" />
         <option name="GAPID_ENABLED" value="false" />
         <option name="GAPID_DISABLE_PCS" value="false" />
         <option name="SUPPORT_LIB_ENABLED" value="true" />
@@ -1434,8 +1587,53 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method />
     </configuration>
-    <list size="1">
+    <configuration default="false" name="Test" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="mobilesafe74" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Native>
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="false" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Android App.mobilesafe74" />
+      <item index="1" class="java.lang.String" itemvalue="Android Tests.Test" />
     </list>
     <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
       <option name="MAIN_CLASS_NAME" />
@@ -1569,8 +1767,47 @@
       <option name="project" value="LOCAL" />
       <updated>1486282190326</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="第十三次提交——添加来电归属地toast显示位置的功能，（完成）">
+      <created>1486301980645</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1486301980645</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Test - 2017.02.08 at 09h 41m 41s.xml">
+      <configuration name="Test" configurationId="AndroidTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Test - 2017.02.08 at 09h 44m 32s.xml">
+      <configuration name="Test" configurationId="AndroidTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Test - 2017.02.08 at 09h 45m 00s.xml">
+      <configuration name="Test" configurationId="AndroidTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Test - 2017.02.08 at 09h 47m 29s.xml">
+      <configuration name="Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test - 2017.02.08 at 09h 48m 41s.xml">
+      <configuration name="Test" configurationId="AndroidTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Test - 2017.02.08 at 10h 17m 19s.xml">
+      <configuration name="Test" configurationId="AndroidTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Test - 2017.02.08 at 10h 24m 03s.xml">
+      <configuration name="Test" configurationId="AndroidTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Test - 2017.02.08 at 10h 25m 26s.xml">
+      <configuration name="Test" configurationId="AndroidTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Test - 2017.02.08 at 10h 26m 31s.xml">
+      <configuration name="Test" configurationId="AndroidTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Test_tests - 2017.02.08 at 09h 46m 44s.xml">
+      <configuration name="Test.tests" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1582,41 +1819,41 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="31" y="22" width="1378" height="744" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21406959" sideWeight="0.5068259" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.68804157" sideWeight="0.5030349" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34982935" sideWeight="0.4908953" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290469" sideWeight="0.50676984" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36006826" sideWeight="0.49544764" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18430035" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26791808" sideWeight="0.4969651" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26791808" sideWeight="0.4969651" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21406959" sideWeight="0.5068259" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32852808" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14163822" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31569967" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47098976" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.68804157" sideWeight="0.5030349" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19795223" sideWeight="0.4908953" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14163822" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39249146" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47098976" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4795222" sideWeight="0.5091047" order="11" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22617246" sideWeight="0.49317408" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3327645" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290469" sideWeight="0.49323016" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4795222" sideWeight="0.5091047" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2511381" sideWeight="0.49317408" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32852808" sideWeight="0.49323016" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290469" sideWeight="0.50676984" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21406959" sideWeight="0.5068259" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34300342" sideWeight="0.49544764" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962063" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21028744" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3327645" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1625,7 +1862,7 @@
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21406959" sideWeight="0.5068259" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.68804157" sideWeight="0.5030349" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34982935" sideWeight="0.4908953" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19795223" sideWeight="0.4908953" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1633,21 +1870,21 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290469" sideWeight="0.50676984" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36006826" sideWeight="0.49544764" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34300342" sideWeight="0.49544764" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18430035" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26791808" sideWeight="0.4969651" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26791808" sideWeight="0.4969651" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32852808" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14163822" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31569967" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47098976" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21028744" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14163822" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39249146" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47098976" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4795222" sideWeight="0.5091047" order="11" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22617246" sideWeight="0.49317408" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1672355" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4795222" sideWeight="0.5091047" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2526475" sideWeight="0.49317408" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3327645" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290469" sideWeight="0.49323016" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21406959" sideWeight="0.5068259" order="7" side_tool="true" content_ui="tabs" />
@@ -1677,7 +1914,8 @@
     <MESSAGE value="第十次提交——添加来电归属地的功能，（完成）" />
     <MESSAGE value="第十一次提交——更改来电toast颜色的功能，（完成）" />
     <MESSAGE value="第十二次提交——添加更改来电归属地toast显示位置的功能，（未完待续。。。）" />
-    <option name="LAST_COMMIT_MESSAGE" value="第十二次提交——添加更改来电归属地toast显示位置的功能，（未完待续。。。）" />
+    <MESSAGE value="第十三次提交——添加来电归属地toast显示位置的功能，（完成）" />
+    <option name="LAST_COMMIT_MESSAGE" value="第十三次提交——添加来电归属地toast显示位置的功能，（完成）" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1689,168 +1927,21 @@
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/itheima/mobilesafe74/activity/ToastLocationActivity.java</url>
-          <line>165</line>
+          <url>file://$PROJECT_DIR$/src/com/itheima/mobilesafe74/Service/AddressService.java</url>
+          <line>102</line>
           <properties />
-          <option name="timeStamp" value="35" />
+          <option name="timeStamp" value="37" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="36" />
+      <option name="time" value="41" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://E:/Users/horizon/AppData/Local/Android/sdk/sources/android-18/android/app/Instrumentation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="1107" column="0" selection-start-line="1107" selection-start-column="0" selection-end-line="1107" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/itheima/mobilesafe74/Receiver/BootReceiver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Users/horizon/AppData/Local/Android/sdk/sources/android-18/android/text/TextUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="463" column="0" selection-start-line="463" selection-start-column="0" selection-end-line="463" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Users/horizon/AppData/Local/Android/sdk/sources/android-18/android/database/AbstractCursor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="244" column="0" selection-start-line="244" selection-start-column="0" selection-end-line="244" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Users/horizon/AppData/Local/Android/sdk/sources/android-18/android/database/Cursor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="124" column="22" selection-start-line="124" selection-start-column="12" selection-end-line="124" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/anim/cycle_7.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/anim/shake.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Users/horizon/AppData/Local/Android/sdk/sources/android-18/android/view/animation/CycleInterpolator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="41" column="32" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Users/horizon/AppData/Local/Android/sdk/sources/android-18/android/view/animation/Animation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Users/horizon/AppData/Local/Android/sdk/sources/android-18/android/view/animation/AnimationUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-399">
-          <caret line="34" column="27" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/itheima/mobilesafe74/activity/BaseActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/itheima/mobilesafe74/activity/PhoneLocationQueryActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="46" column="44" selection-start-line="46" selection-start-column="44" selection-end-line="46" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/itheima/mobilesafe74/activity/AToolActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
-          <folding>
-            <element signature="e#764#977#0" expanded="false" />
-            <element signature="e#976#977#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/activity_location_query.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/setting_item_view.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/itheima/mobilesafe74/Service/LocaitonService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/activity_atool.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/itheima/mobilesafe74/activity/SplashActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-7245">
           <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Users/horizon/AppData/Local/Android/sdk/sources/android-18/android/os/Looper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="136" column="44" selection-start-line="136" selection-start-column="44" selection-end-line="136" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Users/horizon/AppData/Local/Android/sdk/sources/android-18/android/os/Handler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="101" column="0" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1886,9 +1977,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
-          <folding>
-            <element signature="docComment;class#ServiceUtil#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1896,25 +1984,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-379">
           <caret line="19" column="51" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/toast_view.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://E:/Users/horizon/AppData/Local/Android/sdk/sources/android-18/android/widget/RelativeLayout.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="186">
           <caret line="252" column="17" selection-start-line="252" selection-start-column="17" selection-end-line="252" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1929,28 +2015,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="109" column="49" selection-start-line="109" selection-start-column="49" selection-end-line="109" selection-end-column="49" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/activity_setting.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1365">
           <caret line="65" column="42" selection-start-line="65" selection-start-column="42" selection-end-line="65" selection-end-column="42" />
-          <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/itheima/mobilesafe74/view/SettingClickView.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="663">
           <caret line="48" column="22" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="22" />
-          <folding>
-            <element signature="docComment;method#setTitle#0;class#SettingClickView#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1958,477 +2039,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="474">
           <caret line="3890" column="0" selection-start-line="3890" selection-start-column="0" selection-end-line="3890" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#337467#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="docComment;class#TextView#0" expanded="false" />
-            <element signature="docComment;field#MARQUEE_FADE_NORMAL#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;field#MARQUEE_FADE_SWITCH_SHOW_ELLIPSIS#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;field#MARQUEE_FADE_SWITCH_SHOW_FADE#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;field#mMarqueeFadeMode#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;field#mSavedMarqueeModeLayout#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;field#mEditor#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;class#OnEditorActionListener#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#onEditorAction#0;class#OnEditorActionListener#0;class#TextView#0" expanded="false" />
-            <element signature="e#23965#23966#0" expanded="false" />
-            <element signature="e#24000#24001#0" expanded="false" />
-            <element signature="docComment;method#setTypeface#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getDefaultEditable#0;class#TextView#0" expanded="false" />
-            <element signature="e#55943#55944#0" expanded="false" />
-            <element signature="e#55971#55972#0" expanded="false" />
-            <element signature="docComment;method#getDefaultMovementMethod#0;class#TextView#0" expanded="false" />
-            <element signature="e#56116#56117#0" expanded="false" />
-            <element signature="e#56143#56144#0" expanded="false" />
-            <element signature="docComment;method#getText#0;class#TextView#0" expanded="false" />
-            <element signature="e#56681#56682#0" expanded="false" />
-            <element signature="e#56709#56710#0" expanded="false" />
-            <element signature="docComment;method#length#0;class#TextView#0" expanded="false" />
-            <element signature="e#56831#56832#0" expanded="false" />
-            <element signature="e#56868#56869#0" expanded="false" />
-            <element signature="docComment;method#getEditableText#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getLineHeight#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getLayout#0;class#TextView#0" expanded="false" />
-            <element signature="e#57755#57756#0" expanded="false" />
-            <element signature="e#57785#57786#0" expanded="false" />
-            <element signature="docComment;method#getHintLayout#0;class#TextView#0" expanded="false" />
-            <element signature="e#57943#57944#0" expanded="false" />
-            <element signature="e#57977#57978#0" expanded="false" />
-            <element signature="docComment;method#getKeyListener#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#setKeyListener#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getMovementMethod#0;class#TextView#0" expanded="false" />
-            <element signature="e#61225#61226#0" expanded="false" />
-            <element signature="e#61257#61258#0" expanded="false" />
-            <element signature="docComment;method#setMovementMethod#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getTransformationMethod#0;class#TextView#0" expanded="false" />
-            <element signature="e#63044#63045#0" expanded="false" />
-            <element signature="e#63082#63083#0" expanded="false" />
-            <element signature="docComment;method#setTransformationMethod#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getCompoundPaddingTop#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getCompoundPaddingBottom#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getCompoundPaddingLeft#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getCompoundPaddingRight#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getCompoundPaddingStart#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getCompoundPaddingEnd#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getExtendedPaddingTop#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getExtendedPaddingBottom#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getTotalPaddingLeft#0;class#TextView#0" expanded="false" />
-            <element signature="e#69087#69088#0" expanded="false" />
-            <element signature="e#69134#69135#0" expanded="false" />
-            <element signature="docComment;method#getTotalPaddingRight#0;class#TextView#0" expanded="false" />
-            <element signature="e#69287#69288#0" expanded="false" />
-            <element signature="e#69335#69336#0" expanded="false" />
-            <element signature="docComment;method#getTotalPaddingStart#0;class#TextView#0" expanded="false" />
-            <element signature="e#69488#69489#0" expanded="false" />
-            <element signature="e#69536#69537#0" expanded="false" />
-            <element signature="docComment;method#getTotalPaddingEnd#0;class#TextView#0" expanded="false" />
-            <element signature="e#69683#69684#0" expanded="false" />
-            <element signature="e#69729#69730#0" expanded="false" />
-            <element signature="docComment;method#getTotalPaddingTop#0;class#TextView#0" expanded="false" />
-            <element signature="e#69985#69986#0" expanded="false" />
-            <element signature="e#70057#70058#0" expanded="false" />
-            <element signature="docComment;method#getTotalPaddingBottom#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#setCompoundDrawables#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#setCompoundDrawablesWithIntrinsicBounds#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#setCompoundDrawablesWithIntrinsicBounds#1;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#setCompoundDrawablesRelative#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#setCompoundDrawablesRelativeWithIntrinsicBounds#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#setCompoundDrawablesRelativeWithIntrinsicBounds#1;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getCompoundDrawables#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getCompoundDrawablesRelative#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#setCompoundDrawablePadding#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getCompoundDrawablePadding#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getAutoLinkMask#0;class#TextView#0" expanded="false" />
-            <element signature="e#88264#88265#0" expanded="false" />
-            <element signature="e#88300#88301#0" expanded="false" />
-            <element signature="docComment;method#setTextAppearance#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getTextLocale#0;class#TextView#0" expanded="false" />
-            <element signature="e#91516#91517#0" expanded="false" />
-            <element signature="e#91565#91566#0" expanded="false" />
-            <element signature="docComment;method#setTextLocale#0;class#TextView#0" expanded="false" />
-            <element signature="e#92006#92007#0" expanded="false" />
-            <element signature="e#92054#92055#0" expanded="false" />
-            <element signature="docComment;method#getTextSize#0;class#TextView#0" expanded="false" />
-            <element signature="e#92234#92235#0" expanded="false" />
-            <element signature="e#92281#92282#0" expanded="false" />
-            <element signature="docComment;method#setTextSize#0;class#TextView#0" expanded="false" />
-            <element signature="e#92676#92677#0" expanded="false" />
-            <element signature="e#92737#92738#0" expanded="false" />
-            <element signature="docComment;method#setTextSize#1;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getTextScaleX#0;class#TextView#0" expanded="false" />
-            <element signature="e#93838#93839#0" expanded="false" />
-            <element signature="e#93887#93888#0" expanded="false" />
-            <element signature="docComment;method#setTextScaleX#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#setTypeface#1;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getTypeface#0;class#TextView#0" expanded="false" />
-            <element signature="e#95573#95574#0" expanded="false" />
-            <element signature="e#95620#95621#0" expanded="false" />
-            <element signature="docComment;method#setTextColor#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#setTextColor#1;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getTextColors#0;class#TextView#0" expanded="false" />
-            <element signature="e#96822#96823#0" expanded="false" />
-            <element signature="e#96855#96856#0" expanded="false" />
-            <element signature="docComment;method#getCurrentTextColor#0;class#TextView#0" expanded="false" />
-            <element signature="e#97036#97037#0" expanded="false" />
-            <element signature="e#97072#97073#0" expanded="false" />
-            <element signature="docComment;method#setHighlightColor#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getHighlightColor#0;class#TextView#0" expanded="false" />
-            <element signature="e#97662#97663#0" expanded="false" />
-            <element signature="e#97700#97701#0" expanded="false" />
-            <element signature="docComment;method#setShowSoftInputOnFocus#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getShowSoftInputOnFocus#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#setShadowLayer#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getShadowRadius#0;class#TextView#0" expanded="false" />
-            <element signature="e#99423#99424#0" expanded="false" />
-            <element signature="e#99459#99460#0" expanded="false" />
-            <element signature="docComment;method#getShadowDx#0;class#TextView#0" expanded="false" />
-            <element signature="e#99689#99690#0" expanded="false" />
-            <element signature="e#99721#99722#0" expanded="false" />
-            <element signature="docComment;method#getShadowDy#0;class#TextView#0" expanded="false" />
-            <element signature="e#99949#99950#0" expanded="false" />
-            <element signature="e#99981#99982#0" expanded="false" />
-            <element signature="docComment;method#getShadowColor#0;class#TextView#0" expanded="false" />
-            <element signature="e#100203#100204#0" expanded="false" />
-            <element signature="e#100248#100249#0" expanded="false" />
-            <element signature="docComment;method#getPaint#0;class#TextView#0" expanded="false" />
-            <element signature="e#100435#100436#0" expanded="false" />
-            <element signature="e#100468#100469#0" expanded="false" />
-            <element signature="docComment;method#setAutoLinkMask#0;class#TextView#0" expanded="false" />
-            <element signature="e#100778#100779#0" expanded="false" />
-            <element signature="e#100814#100815#0" expanded="false" />
-            <element signature="docComment;method#setLinksClickable#0;class#TextView#0" expanded="false" />
-            <element signature="e#101230#101231#0" expanded="false" />
-            <element signature="e#101271#101272#0" expanded="false" />
-            <element signature="docComment;method#getLinksClickable#0;class#TextView#0" expanded="false" />
-            <element signature="e#101640#101641#0" expanded="false" />
-            <element signature="e#101678#101679#0" expanded="false" />
-            <element signature="docComment;method#getUrls#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#setHintTextColor#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#setHintTextColor#1;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getHintTextColors#0;class#TextView#0" expanded="false" />
-            <element signature="e#103552#103553#0" expanded="false" />
-            <element signature="e#103589#103590#0" expanded="false" />
-            <element signature="docComment;method#getCurrentHintTextColor#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#setLinkTextColor#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#setLinkTextColor#1;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getLinkTextColors#0;class#TextView#0" expanded="false" />
-            <element signature="e#105029#105030#0" expanded="false" />
-            <element signature="e#105066#105067#0" expanded="false" />
-            <element signature="docComment;method#setGravity#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getGravity#0;class#TextView#0" expanded="false" />
-            <element signature="e#106629#106630#0" expanded="false" />
-            <element signature="e#106660#106661#0" expanded="false" />
-            <element signature="docComment;method#getPaintFlags#0;class#TextView#0" expanded="false" />
-            <element signature="e#106807#106808#0" expanded="false" />
-            <element signature="e#106851#106852#0" expanded="false" />
-            <element signature="docComment;method#setPaintFlags#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#setHorizontallyScrolling#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getHorizontallyScrolling#0;class#TextView#0" expanded="false" />
-            <element signature="e#108189#108190#0" expanded="false" />
-            <element signature="e#108234#108235#0" expanded="false" />
-            <element signature="docComment;method#setMinLines#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getMinLines#0;class#TextView#0" expanded="false" />
-            <element signature="e#109062#109063#0" expanded="false" />
-            <element signature="e#109118#109119#0" expanded="false" />
-            <element signature="docComment;method#setMinHeight#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getMinHeight#0;class#TextView#0" expanded="false" />
-            <element signature="e#109882#109883#0" expanded="false" />
-            <element signature="e#109939#109940#0" expanded="false" />
-            <element signature="docComment;method#setMaxLines#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getMaxLines#0;class#TextView#0" expanded="false" />
-            <element signature="e#110676#110677#0" expanded="false" />
-            <element signature="e#110732#110733#0" expanded="false" />
-            <element signature="docComment;method#setMaxHeight#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getMaxHeight#0;class#TextView#0" expanded="false" />
-            <element signature="e#111580#111581#0" expanded="false" />
-            <element signature="e#111637#111638#0" expanded="false" />
-            <element signature="docComment;method#setLines#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#setHeight#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#setMinEms#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getMinEms#0;class#TextView#0" expanded="false" />
-            <element signature="e#113377#113378#0" expanded="false" />
-            <element signature="e#113437#113438#0" expanded="false" />
-            <element signature="docComment;method#setMinWidth#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getMinWidth#0;class#TextView#0" expanded="false" />
-            <element signature="e#114121#114122#0" expanded="false" />
-            <element signature="e#114184#114185#0" expanded="false" />
-            <element signature="docComment;method#setMaxEms#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getMaxEms#0;class#TextView#0" expanded="false" />
-            <element signature="e#114857#114858#0" expanded="false" />
-            <element signature="e#114917#114918#0" expanded="false" />
-            <element signature="docComment;method#setMaxWidth#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getMaxWidth#0;class#TextView#0" expanded="false" />
-            <element signature="e#115600#115601#0" expanded="false" />
-            <element signature="e#115663#115664#0" expanded="false" />
-            <element signature="docComment;method#setEms#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#setWidth#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#setLineSpacing#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getLineSpacingMultiplier#0;class#TextView#0" expanded="false" />
-            <element signature="e#117682#117683#0" expanded="false" />
-            <element signature="e#117717#117718#0" expanded="false" />
-            <element signature="docComment;method#getLineSpacingExtra#0;class#TextView#0" expanded="false" />
-            <element signature="e#118073#118074#0" expanded="false" />
-            <element signature="e#118107#118108#0" expanded="false" />
-            <element signature="docComment;method#append#0;class#TextView#0" expanded="false" />
-            <element signature="e#118343#118344#0" expanded="false" />
-            <element signature="e#118389#118390#0" expanded="false" />
-            <element signature="docComment;method#append#1;class#TextView#0" expanded="false" />
-            <element signature="e#124960#125081#0" expanded="false" />
-            <element signature="e#125080#125081#0" expanded="false" />
-            <element signature="docComment;method#setFreezesText#0;class#TextView#0" expanded="false" />
-            <element signature="e#125851#125852#0" expanded="false" />
-            <element signature="e#125893#125894#0" expanded="false" />
-            <element signature="docComment;method#getFreezesText#0;class#TextView#0" expanded="false" />
-            <element signature="e#126159#126160#0" expanded="false" />
-            <element signature="e#126194#126195#0" expanded="false" />
-            <element signature="docComment;method#setEditableFactory#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#setSpannableFactory#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#setText#0;class#TextView#0" expanded="false" />
-            <element signature="e#127381#127382#0" expanded="false" />
-            <element signature="e#127423#127424#0" expanded="false" />
-            <element signature="docComment;method#setTextKeepState#0;class#TextView#0" expanded="false" />
-            <element signature="e#127767#127768#0" expanded="false" />
-            <element signature="e#127818#127819#0" expanded="false" />
-            <element signature="docComment;method#setText#1;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#setText#3;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#setTextKeepState#1;class#TextView#0" expanded="false" />
-            <element signature="e#135956#135957#0" expanded="false" />
-            <element signature="e#136023#136024#0" expanded="false" />
-            <element signature="docComment;method#setHint#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#setHint#1;class#TextView#0" expanded="false" />
-            <element signature="e#137186#137187#0" expanded="false" />
-            <element signature="e#137253#137254#0" expanded="false" />
-            <element signature="docComment;method#getHint#0;class#TextView#0" expanded="false" />
-            <element signature="e#137489#137490#0" expanded="false" />
-            <element signature="e#137517#137518#0" expanded="false" />
-            <element signature="e#137547#137548#0" expanded="false" />
-            <element signature="e#137581#137582#0" expanded="false" />
-            <element signature="docComment;method#removeSuggestionSpans#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#setInputType#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#hasPasswordTransformationMethod#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#setRawInputType#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getInputType#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#setImeOptions#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getImeOptions#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#setImeActionLabel#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getImeActionLabel#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getImeActionId#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#setOnEditorActionListener#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#onEditorAction#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#setPrivateImeOptions#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getPrivateImeOptions#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#setInputExtras#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getInputExtras#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getError#0;class#TextView#0" expanded="false" />
-            <element signature="e#155373#155374#0" expanded="false" />
-            <element signature="e#155435#155436#0" expanded="false" />
-            <element signature="docComment;method#setError#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#setError#1;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#setFilters#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#setFilters#1;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getFilters#0;class#TextView#0" expanded="false" />
-            <element signature="e#158670#158671#0" expanded="false" />
-            <element signature="e#158701#158702#0" expanded="false" />
-            <element signature="docComment;method#invalidateRegion#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#onPreDraw#0;class#TextView#0" expanded="false" />
-            <element signature="e#168980#168981#0" expanded="false" />
-            <element signature="e#169043#169044#0" expanded="false" />
-            <element signature="e#169283#169284#0" expanded="false" />
-            <element signature="e#169350#169351#0" expanded="false" />
-            <element signature="e#169410#169411#0" expanded="false" />
-            <element signature="e#169477#169478#0" expanded="false" />
-            <element signature="docComment;method#isTextSelectable#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#setTextIsSelectable#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getHorizontalOffsetForDrawables#0;class#TextView#0" expanded="false" />
-            <element signature="e#179523#179524#0" expanded="false" />
-            <element signature="e#179547#179548#0" expanded="false" />
-            <element signature="docComment;method#getLineCount#0;class#TextView#0" expanded="false" />
-            <element signature="e#188971#188972#0" expanded="false" />
-            <element signature="e#189038#189039#0" expanded="false" />
-            <element signature="docComment;method#getLineBounds#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getFadeTop#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getFadeHeight#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#shouldAdvanceFocusOnEnter#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#shouldAdvanceFocusOnTab#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#resetErrorChangedFlag#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#hideErrorIfUnchanged#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#extractText#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#removeParcelableSpans#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#setExtractedText#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#setExtracting#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#onCommitCompletion#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#onCommitCorrection#0;class#TextView#0" expanded="false" />
-            <element signature="e#213529#213530#0" expanded="false" />
-            <element signature="e#213590#213591#0" expanded="false" />
-            <element signature="e#213624#213625#0" expanded="false" />
-            <element signature="e#213683#213684#0" expanded="false" />
-            <element signature="docComment;method#onBeginBatchEdit#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#onEndBatchEdit#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#onPrivateIMECommand#0;class#TextView#0" expanded="false" />
-            <element signature="e#214663#214664#0" expanded="false" />
-            <element signature="e#214691#214692#0" expanded="false" />
-            <element signature="docComment;method#assumeLayout#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#makeNewLayout#0;class#TextView#0" expanded="false" />
-            <element signature="e#228874#229011#0" expanded="false" />
-            <element signature="e#229010#229011#0" expanded="false" />
-            <element signature="docComment;method#setIncludeFontPadding#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getIncludeFontPadding#0;class#TextView#0" expanded="false" />
-            <element signature="e#230606#230607#0" expanded="false" />
-            <element signature="e#230640#230641#0" expanded="false" />
-            <element signature="docComment;method#checkForResize#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#checkForRelayout#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#bringTextIntoView#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#bringPointIntoView#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#moveCursorToVisibleOffset#0;class#TextView#0" expanded="false" />
-            <element signature="e#255545#255546#0" expanded="false" />
-            <element signature="e#255603#255604#0" expanded="false" />
-            <element signature="docComment;method#getSelectionStart#0;class#TextView#0" expanded="false" />
-            <element signature="e#256680#256681#0" expanded="false" />
-            <element signature="e#256741#256742#0" expanded="false" />
-            <element signature="docComment;method#getSelectionEnd#0;class#TextView#0" expanded="false" />
-            <element signature="e#256902#256903#0" expanded="false" />
-            <element signature="e#256961#256962#0" expanded="false" />
-            <element signature="docComment;method#hasSelection#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#setSingleLine#0;class#TextView#0" expanded="false" />
-            <element signature="e#257515#257516#0" expanded="false" />
-            <element signature="e#257550#257551#0" expanded="false" />
-            <element signature="docComment;method#setAllCaps#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#setSingleLine#1;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#setInputTypeSingleLine#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#setEllipsize#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#setMarqueeRepeatLimit#0;class#TextView#0" expanded="false" />
-            <element signature="e#261691#261692#0" expanded="false" />
-            <element signature="e#261741#261742#0" expanded="false" />
-            <element signature="docComment;method#getMarqueeRepeatLimit#0;class#TextView#0" expanded="false" />
-            <element signature="e#262170#262171#0" expanded="false" />
-            <element signature="e#262212#262213#0" expanded="false" />
-            <element signature="docComment;method#getEllipsize#0;class#TextView#0" expanded="false" />
-            <element signature="e#262418#262419#0" expanded="false" />
-            <element signature="e#262451#262452#0" expanded="false" />
-            <element signature="docComment;method#setSelectAllOnFocus#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#setCursorVisible#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#isCursorVisible#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#onTextChanged#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#onSelectionChanged#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#addTextChangedListener#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#removeTextChangedListener#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#sendOnTextChanged#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#sendAfterTextChanged#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#handleTextChanged#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#spanChange#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#dispatchFinishTemporaryDetach#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#clearComposingText#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#isTextEditable#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#didTouchFocusSelect#0;class#TextView#0" expanded="false" />
-            <element signature="e#283826#283827#0" expanded="false" />
-            <element signature="e#283895#283896#0" expanded="false" />
-            <element signature="e#284432#284433#0" expanded="false" />
-            <element signature="e#284461#284462#0" expanded="false" />
-            <element signature="docComment;method#getTextColors#1;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getTextColor#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#canSelectText#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#textCanBeSelected#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getTextServicesLocale#1;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getSpellCheckerLocale#0;class#TextView#0" expanded="false" />
-            <element signature="e#294965#295344#0" expanded="false" />
-            <element signature="e#295343#295344#0" expanded="false" />
-            <element signature="docComment;method#getWordIterator#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#shouldSpeakPasswordsForAccessibility#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getTextForAccessibility#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#isInputMethodTarget#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#onTextContextMenuItem#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#isSuggestionsEnabled#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#setCustomSelectionActionModeCallback#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getCustomSelectionActionModeCallback#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#stopSelectionActionMode#0;class#TextView#0" expanded="false" />
-            <element signature="e#310367#310368#0" expanded="false" />
-            <element signature="e#310416#310417#0" expanded="false" />
-            <element signature="docComment;method#prepareSpacesAroundPaste#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#paste#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getOffsetForPosition#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#onResolveDrawables#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#resetResolvedDrawables#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#viewClicked#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#deleteText_internal#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#replaceText_internal#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#setSpan_internal#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#setCursorPosition_internal#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#createEditorIfNeeded#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getIterableTextForAccessibility#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getIteratorForGranularity#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;method#getAccessibilitySelectionStart#0;class#TextView#0" expanded="false" />
-            <element signature="e#323566#323567#0" expanded="false" />
-            <element signature="e#323608#323609#0" expanded="false" />
-            <element signature="docComment;method#isAccessibilitySelectionExtendable#0;class#TextView#0" expanded="false" />
-            <element signature="e#323696#323697#0" expanded="false" />
-            <element signature="e#323723#323724#0" expanded="false" />
-            <element signature="docComment;method#getAccessibilitySelectionEnd#0;class#TextView#0" expanded="false" />
-            <element signature="e#323815#323816#0" expanded="false" />
-            <element signature="e#323855#323856#0" expanded="false" />
-            <element signature="docComment;method#setAccessibilitySelection#0;class#TextView#0" expanded="false" />
-            <element signature="docComment;class#SavedState#0;class#TextView#0" expanded="false" />
-            <element signature="e#325054#325055#0" expanded="false" />
-            <element signature="e#325095#325096#0" expanded="false" />
-            <element signature="e#326184#326185#0" expanded="false" />
-            <element signature="e#326241#326242#0" expanded="false" />
-            <element signature="e#326295#326296#0" expanded="false" />
-            <element signature="e#326354#326355#0" expanded="false" />
-            <element signature="e#327282#327283#0" expanded="false" />
-            <element signature="e#327320#327321#0" expanded="false" />
-            <element signature="e#327359#327360#0" expanded="false" />
-            <element signature="e#327410#327411#0" expanded="false" />
-            <element signature="e#327464#327465#0" expanded="false" />
-            <element signature="e#327530#327531#0" expanded="false" />
-            <element signature="e#334160#334161#0" expanded="false" />
-            <element signature="e#334203#334204#0" expanded="false" />
-            <element signature="e#334232#334233#0" expanded="false" />
-            <element signature="e#334270#334271#0" expanded="false" />
-            <element signature="e#334306#334307#0" expanded="false" />
-            <element signature="e#334351#334352#0" expanded="false" />
-            <element signature="e#334391#334392#0" expanded="false" />
-            <element signature="e#334442#334443#0" expanded="false" />
-            <element signature="e#334479#334480#0" expanded="false" />
-            <element signature="e#334561#334562#0" expanded="false" />
-            <element signature="e#334592#334593#0" expanded="false" />
-            <element signature="e#334649#334650#0" expanded="false" />
-            <element signature="e#334680#334681#0" expanded="false" />
-            <element signature="e#334737#334738#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/setting_click_view.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="798">
           <caret line="38" column="49" selection-start-line="38" selection-start-column="49" selection-end-line="38" selection-end-column="49" />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/itheima/mobilesafe74/utils/ConstantValue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="411">
           <caret line="64" column="58" selection-start-line="64" selection-start-column="58" selection-end-line="64" selection-end-column="58" />
-          <folding>
-            <element signature="docComment;field#TOAST_STYLE#0;class#ConstantValue#0" expanded="false" />
-            <element signature="docComment;field#TOAST_TOP#0;class#ConstantValue#0" expanded="false" />
-            <element signature="docComment;field#TOAST_RIGHT#0;class#ConstantValue#0" expanded="false" />
-            <element signature="docComment;field#TOAST_BOTTOM#0;class#ConstantValue#0" expanded="false" />
-            <element signature="docComment;field#TOAST_LOCATION_X#0;class#ConstantValue#0" expanded="false" />
-            <element signature="docComment;field#TOAST_LOCATION_Y#0;class#ConstantValue#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
-      <provider editor-type-id="android-manifest">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="67" column="76" selection-start-line="67" selection-start-column="76" selection-end-line="67" selection-end-column="76" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2436,7 +2063,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="172">
           <caret line="1179" column="22" selection-start-line="1179" selection-start-column="22" selection-end-line="1179" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2444,7 +2070,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="2105" column="0" selection-start-line="2105" selection-start-column="0" selection-end-line="2105" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2452,7 +2077,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="1718" column="0" selection-start-line="1718" selection-start-column="0" selection-end-line="1718" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2460,7 +2084,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="2742" column="0" selection-start-line="2742" selection-start-column="0" selection-end-line="2742" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2468,7 +2091,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="5755" column="0" selection-start-line="5755" selection-start-column="0" selection-end-line="5755" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2476,7 +2098,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="185" column="0" selection-start-line="185" selection-start-column="0" selection-end-line="185" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2484,7 +2105,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="823" column="0" selection-start-line="823" selection-start-column="0" selection-end-line="823" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2492,9 +2112,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="10644" column="0" selection-start-line="10644" selection-start-column="0" selection-end-line="10644" selection-end-column="0" />
-          <folding>
-            <element signature="docComment;method#removeTapCallback#0;class#View#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2502,7 +2119,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="105" column="0" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2510,7 +2126,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="98" column="0" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2518,61 +2133,205 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="238" column="0" selection-start-line="238" selection-start-column="0" selection-end-line="238" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/itheima/mobilesafe74/activity/SettingActivity.java">
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/mobilesafe74/Service/InnerOutingCallReceiver.java" />
+    <entry file="file://E:/Users/horizon/AppData/Local/Android/sdk/sources/android-18/android/os/Looper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2730">
-          <caret line="147" column="74" selection-start-line="147" selection-start-column="74" selection-end-line="147" selection-end-column="74" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="docComment;method#initToastLocation#0;class#SettingActivity#0" expanded="true" />
-            <element signature="docComment;method#setToastLoacation#0;class#SettingActivity#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="84">
+          <caret line="134" column="13" selection-start-line="134" selection-start-column="13" selection-end-line="134" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Users/horizon/AppData/Local/Android/sdk/sources/android-18/android/content/BroadcastReceiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="588" column="0" selection-start-line="588" selection-start-column="0" selection-end-line="588" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Users/horizon/AppData/Local/Android/sdk/sources/android-18/android/os/Handler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="101" column="0" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Users/horizon/AppData/Local/Android/sdk/sources/android-18/android/telephony/PhoneStateListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="292" column="0" selection-start-line="292" selection-start-column="0" selection-end-line="292" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/itheima/mobilesafe74/Service/AddressService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-744">
-          <caret line="125" column="12" selection-start-line="125" selection-start-column="12" selection-end-line="125" selection-end-column="12" />
+        <state relative-caret-position="115">
+          <caret line="120" column="0" selection-start-line="120" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="docComment;class#AddressService#0" expanded="true" />
-            <element signature="e#1385#1561#0" expanded="true" />
-            <element signature="e#1560#1561#0" expanded="true" />
-            <element signature="docComment;method#showToast#0;class#AddressService#0" expanded="true" />
-            <element signature="class#4919:7078" expanded="false" />
-            <element signature="e#7787#8066#0" expanded="true" />
-            <element signature="e#8065#8066#0" expanded="true" />
+            <element signature="docComment;class#AddressService#0" expanded="false" />
+            <element signature="docComment;method#showToast#0;class#AddressService#0" expanded="false" />
+            <element signature="class#5626:7785" expanded="false" />
+            <element signature="e#8494#8773#0" expanded="false" />
+            <element signature="e#8772#8773#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/mobilesafe74/activity/SettingActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="147" column="74" selection-start-line="147" selection-start-column="74" selection-end-line="147" selection-end-column="74" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/toast_location.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+        </state>
+      </provider>
       <provider editor-type-id="android-designer2">
         <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/itheima/mobilesafe74/activity/ToastLocationActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="84" column="0" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+        <state relative-caret-position="231">
+          <caret line="166" column="21" selection-start-line="166" selection-start-column="21" selection-end-line="166" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1512">
+          <caret line="72" column="61" selection-start-line="72" selection-start-column="61" selection-end-line="72" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="37" column="36" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/activty_blacklist.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://E:/Users/horizon/AppData/Local/Android/sdk/sources/android-18/android/database/sqlite/SQLiteOpenHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="564">
+          <caret line="112" column="26" selection-start-line="112" selection-start-column="26" selection-end-line="112" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/mobilesafe74/dao/BlackListInfoDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Users/horizon/AppData/Local/Android/sdk/sources/android-18/android/test/InstrumentationTestCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="216" column="0" selection-start-line="216" selection-start-column="0" selection-end-line="216" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/mobilesafe74/db/BlackListOpenHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Users/horizon/AppData/Local/Android/sdk/sources/android-18/java/net/URLClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="380" column="0" selection-start-line="380" selection-start-column="0" selection-end-line="380" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable/selector_blacklist_background.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/mobilesafe74/tests/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/mobilesafe74/activity/TestActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/mobilesafe74/dao/BlackListDBDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="docComment;method#initToastUI#0;class#ToastLocationActivity#0" expanded="true" />
-            <element signature="e#2726#3885#0" expanded="true" />
-            <element signature="e#3884#3885#0" expanded="true" />
+            <element signature="docComment;class#BlackListDBDao#0" expanded="true" />
+            <element signature="docComment;method#insert#0;class#BlackListDBDao#0" expanded="true" />
+            <element signature="docComment;method#delete#0;class#BlackListDBDao#0" expanded="true" />
+            <element signature="docComment;method#update#0;class#BlackListDBDao#0" expanded="true" />
+            <element signature="docComment;method#queryAll#0;class#BlackListDBDao#0" expanded="true" />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/mobilesafe74/activity/HomeActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="60" column="25" selection-start-line="60" selection-start-column="25" selection-end-line="60" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/mobilesafe74/activity/BlackListActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1365">
+          <caret line="91" column="74" selection-start-line="91" selection-start-column="74" selection-end-line="91" selection-end-column="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1257#1258#0" expanded="true" />
+            <element signature="e#1326#1327#0" expanded="true" />
+            <element signature="docComment;method#initInfo#0;class#BlackListActivity#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/blacklist_item.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
   </component>

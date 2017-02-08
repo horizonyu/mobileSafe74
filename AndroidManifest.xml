@@ -38,6 +38,9 @@
     <!--获取将view对象挂在到窗体中的权限-->
     <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
 
+    <!--获取所播出电话的权限-->
+    <uses-permission android:name="android.permission.PROCESS_OUTGOING_CALLS"/>
+
 
     <application
         android:allowBackup="true"
@@ -66,6 +69,8 @@
         <activity android:name=".activity.PhoneLocationQueryActivity" />
         <activity android:name=".activity.ToastLocationActivity"
                   android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+
+        <activity android:name=".activity.BlackListActivity"></activity>
 
 
         <!--广播接收器注册-->

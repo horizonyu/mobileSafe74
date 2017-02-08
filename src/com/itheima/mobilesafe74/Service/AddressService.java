@@ -2,8 +2,10 @@ package com.itheima.mobilesafe74.Service;
 
 import android.annotation.TargetApi;
 import android.app.Service;
+import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
+import android.content.IntentFilter;
 import android.graphics.PixelFormat;
 import android.os.Build;
 import android.os.Handler;
@@ -52,6 +54,7 @@ public class AddressService extends Service {
     private int[] mDrawableId;
     private int mWidth;
     private int mHeight;
+    private InnerOutingCallReceiver mInnerOutingCallReceiver;
 
 
     @Override
@@ -67,6 +70,24 @@ public class AddressService extends Service {
         mWidth = mWM.getDefaultDisplay().getWidth();
         mHeight = mWM.getDefaultDisplay().getHeight();
 
+        //添加去电归属地显示功能
+        IntentFilter intentFilter = new IntentFilter();
+        intentFilter.addAction(Intent.ACTION_NEW_OUTGOING_CALL);
+        mInnerOutingCallReceiver = new InnerOutingCallReceiver();
+
+        //注册广播
+        registerReceiver(mInnerOutingCallReceiver,intentFilter);
+    }
+
+
+    class InnerOutingCallReceiver extends BroadcastReceiver{
+
+        @Override
+        public void onReceive(Context context, Intent intent) {
+            //获取输入的手机号码
+            String phoneNumber = getResultData();
+            showToast(phoneNumber);
+        }
     }
 
     class MyPhoneStateListener extends PhoneStateListener {
@@ -80,7 +101,7 @@ public class AddressService extends Service {
 
                     //挂断电话后，去除toast view
                     if(mToast != null && mWM != null)
-                    mWM.removeView(mToast);
+                        mWM.removeView(mToast);
 
                     break;
                 case TelephonyManager.CALL_STATE_RINGING:
@@ -245,5 +266,9 @@ public class AddressService extends Service {
         if(tm != null && mp != null){
             tm.listen(mp,PhoneStateListener.LISTEN_NONE);
         }
+
+        //注销广播接收者
+        if(mInnerOutingCallReceiver != null)
+        unregisterReceiver(mInnerOutingCallReceiver);
     }
 }

@@ -5,39 +5,58 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.1"
-    timestamp="259561896437639"
+    timestamp="496398297437083"
     token="-4789432408356204396"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="R_CLASS_CHANGE" >
 
     <task
         name="javac"
-        duration="226" />
+        duration="1262" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="12" />
+        duration="38" />
     <task
         name="verifier"
-        duration="1" />
+        duration="57" />
 
     <artifact
-        location="E:\projects\Android_Studio_projects\mobilesafe74\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+        location="E:\projects\Android_Studio_projects\mobilesafe74\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="E:\projects\Android_Studio_projects\mobilesafe74\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+        type="DEX" />
+    <artifact
+        location="E:\projects\Android_Studio_projects\mobilesafe74\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
         type="DEX" />
 
     <build
-        timestamp="254083071451692"
+        timestamp="493500433244328"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="E:\projects\Android_Studio_projects\mobilesafe74\build\outputs\apk\mobilesafe74-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="259561896437639"
+        timestamp="495579147205835"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="E:\projects\Android_Studio_projects\mobilesafe74\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+            location="E:\projects\Android_Studio_projects\mobilesafe74\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="496398297437083"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="E:\projects\Android_Studio_projects\mobilesafe74\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="E:\projects\Android_Studio_projects\mobilesafe74\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+            type="DEX" />
+        <artifact
+            location="E:\projects\Android_Studio_projects\mobilesafe74\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
             type="DEX" />
     </build>
 
